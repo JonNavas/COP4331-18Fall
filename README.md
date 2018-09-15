@@ -18,10 +18,16 @@ Processes for Object-Oriented Software Development Project
 ## User Stories
 
 •	As a busy UCF student, I would like to know exactly when events that interest me take place so that I can participate without having to wade through dozens of listings online or look for flyers on campus.
+
 •	As a new student, I would like to see on a map where on campus each event takes place because I am still not too familiar with the layout of the school.
+
 •	As a student, I would like to be able to integrate a resource with my calendar to remind me of upcoming events that I am interested in so I do not forget about them.
+
 •	As a new event organizer, I would like a place to easily post my events where students can easily and reliably find them to reach out to as many interested people as possible.
+
 •	As an interested student, I would like a resource that caters specifically to my likes so that I can learn about new events I may not have heard about otherwise.
+
 •	As a student I would like to have an easy and accessible place to buy and sell items to and from local UCF students to facilitate my dorm life.
+
 •	As a new student I would like easy access to free resources around campus without having to sift through pages of information to facilitate my familiarity with the school.
 
