@@ -31,3 +31,5 @@ Processes for Object-Oriented Software Development Project
 
 •	As a new student I would like easy access to free resources around campus without having to sift through pages of information to facilitate my familiarity with the school.
 
+## Product Backlog
+https://docs.google.com/spreadsheets/d/13n5GDykMtX3xxBoemYCmSv1wtKAk3UaQ0nShhMrMqrU/edit?usp=sharing
