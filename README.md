@@ -39,4 +39,6 @@ https://docs.google.com/spreadsheets/d/1Ej6qit5eriFSBgStApwgzjX-bhigaNGX3-hARmdr
 
 ## Burndown Chart
 ![alt text](https://raw.githubusercontent.com/jordanstarkey95/COP4331-18Fall/master/Burndown-1.png)
+
 ## Design Documents
+![alt text](https://raw.githubusercontent.com/jordanstarkey95/COP4331-18Fall/master/UML.png)
