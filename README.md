@@ -30,7 +30,7 @@ Processes for Object-Oriented Software Development Project
 https://docs.google.com/spreadsheets/d/1b-Q-mNuuoXAtTzEAUCNaESQKEKeF_ZXZhGpPglxBtMQ/edit?usp=sharing
 
 ## Sprint Backlog
-https://docs.google.com/spreadsheets/d/1Ej6qit5eriFSBgStApwgzjX-bhigaNGX3-hARmdrrBo/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1bVjK9Yi4O1Sm_Mh1Etl_fZBBIz6xelayMxsPISWG7U4/edit?usp=sharing
 
 ## Burndown Chart
 ![alt text](https://raw.githubusercontent.com/jordanstarkey95/COP4331-18Fall/master/Burndown-1.png)
