@@ -5,31 +5,26 @@ Processes for Object-Oriented Software Development Project
   1. For ... (the product’s target market)
         UCF Students
   2. Who/That ... (describe what need your product solves)
-        Information access problem. Lack of information about school events and resources will be solved by the product's functionalities.   
+       Planning the order of classes to take at UCF can be confusing and daunting. There is a lack of easily-accessed information regarding prerequisites for classes and the best sequence for classes functionalities.   
   3. The product ... (product name,or product category)
-        UCF Daily
+       UCF Planner.
   4. That leads to ... (main advantage, appealing reason for purchase)
-        A better UCF experience and more fulfilling time as you have access to resources and knowledge of events that you were unaware of before. 
+       An easier and more efficient process of enrollment each semester as well as a better structured order of classes taken for students.
   5. Unlike the ... (principal competing alternatives)
-        Knightconnect.cpm has list of RSOs but without any context. There is no social media connection or information about members. List can be daunting to sort through. A recommendation system can filter events/seminars/organizations that are relevant to you all in one application.
+        Current enrollment tool on myUCF, the tool would more easily display features, such as prerequisites for each class and the most effective order for classes to take.
   6. Our product offers ... (describe main differentiation)
-        Recommendation system. Social Media/Networking features. Consolidation of Knight events. 
+        A visualization of the classes to take as well as the prerequisites for each.
         
 ## User Stories
 
-•	As a busy UCF student, I would like to know exactly when events that interest me take place so that I can participate without having to wade through dozens of listings online or look for flyers on campus.
+•	As a new UCF student, having a visualization of the large number of classes I need to take would help immensely to structure my next few semesters.
 
-•	As a new student, I would like to see on a map where on campus each event takes place because I am still not too familiar with the layout of the school.
+•	As a busy student, being able to see prerequisites for all future classes without having to go through dozens of web pages would help cut down on the time it takes to enroll.
 
-•	As a student, I would like to be able to integrate a resource with my calendar to remind me of upcoming events that I am interested in so I do not forget about them.
+•	As an interested student I would like a tool that could track and suggest classes to take in order to facilitate choosing brand new classes or electives.
 
-•	As a new event organizer, I would like a place to easily post my events where students can easily and reliably find them to reach out to as many interested people as possible.
+•		As a student I would like a tool that would allow me to easily see all classes I have previously taken in order to plan ahead and see which classes would suit me best.
 
-•	As an interested student, I would like a resource that caters specifically to my likes so that I can learn about new events I may not have heard about otherwise.
-
-•	As a student I would like to have an easy and accessible place to buy and sell items to and from local UCF students to facilitate my dorm life.
-
-•	As a new student I would like easy access to free resources around campus without having to sift through pages of information to facilitate my familiarity with the school.
 
 ## Product Backlog
 https://docs.google.com/spreadsheets/d/13n5GDykMtX3xxBoemYCmSv1wtKAk3UaQ0nShhMrMqrU/edit?usp=sharing
