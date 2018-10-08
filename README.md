@@ -33,7 +33,7 @@ https://docs.google.com/spreadsheets/d/1b-Q-mNuuoXAtTzEAUCNaESQKEKeF_ZXZhGpPglxB
 https://docs.google.com/spreadsheets/d/1bVjK9Yi4O1Sm_Mh1Etl_fZBBIz6xelayMxsPISWG7U4/edit?usp=sharing
 
 ## Burndown Chart
-![alt text](https://raw.githubusercontent.com/jordanstarkey95/COP4331-18Fall/master/Burndown-1.png)
+![alt text](https://raw.githubusercontent.com/jordanstarkey95/COP4331-18Fall/master/Burndown2.png)
 
 ## Design Documents
 ![alt text](https://raw.githubusercontent.com/jordanstarkey95/COP4331-18Fall/master/UML.png)
