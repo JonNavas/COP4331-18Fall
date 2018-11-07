@@ -537,19 +537,7 @@
 			"professors": "",
 			"credit_type": "COS-MATH",
 			"offered_with": [],
-			"children": [
-			    {
-				"required_prereqs": [],
-				"course_title": "MAC 2313 - Calculus with Analytic Geometry III",
-				"name": "MAC 2313",
-				"credits": "(4)",
-				"choice_prereqs": [],
-				"professors": "",
-				"credit_type": "COS-MATH",
-				"offered_with": [],
-				"children": [],
-				"description": "Geometry of higher dimensional Euclidean space; vectors and vector functions; partial derivatives; multiple integrals; line integrals; vector fields; Green’s Theorem and Stoke’s Theorem."
-			    }],
+			"children": [],
 			"description": "Differentiation and integration of exponential, logarithmic, inverse trigonometric functions; techniques of integration; further applications of integration; parametric equations, polar coordinates; infinite sequences and series."
 		    }
 		],
@@ -564,7 +552,19 @@
 		"professors": "",
 		"credit_type": "COS-MATH",
 		"offered_with": [],
-		"children": [],
+		"children": [	    {
+		    "required_prereqs": [],
+		    "course_title": "MAC 2313 - Calculus with Analytic Geometry III",
+		    "name": "MAC 2313",
+		    "credits": "(4)",
+		    "choice_prereqs": [],
+		    "professors": "",
+		    "credit_type": "COS-MATH",
+		    "offered_with": [],
+		    "children": [],
+		    "description": "Geometry of higher dimensional Euclidean space; vectors and vector functions; partial derivatives; multiple integrals; line integrals; vector fields; Green’s Theorem and Stoke’s Theorem."
+		}
+			    ],
 		"description": "Differentiation and integration of exponential, logarithmic, inverse trigonometric functions; techniques of integration; further applications of integration; parametric equations, polar coordinates; infinite sequences and series."
 	    },
 	    {
