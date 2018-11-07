@@ -449,7 +449,7 @@
 	    {
 		"required_prereqs": [],
 		"course_title": "MAC 1105C - College Algebra",
-		"name": "MAC 1105C",
+		"name": "MAC 1105",
 		"credits": "(3)",
 		"choice_prereqs": [],
 		"professors": "",
@@ -459,7 +459,7 @@
 		    {
 			"required_prereqs": [],
 			"course_title": "MAC 1114C - College Trigonometry",
-			"name": "MAC 1114C",
+			"name": "MAC 1114",
 			"credits": "(3)",
 			"choice_prereqs": [],
 			"professors": "",
@@ -471,7 +471,7 @@
 		    {
 			"required_prereqs": [],
 			"course_title": "MAC 1140C - Pre-Calculus Algebra",
-			"name": "MAC 1140C",
+			"name": "MAC 1140",
 			"credits": "(3)",
 			"choice_prereqs": [],
 			"professors": "",
@@ -486,7 +486,7 @@
 	    {
 		"required_prereqs": [],
 		"course_title": "MAC 1114C - College Trigonometry",
-		"name": "MAC 1114C",
+		"name": "MAC 1114",
 		"credits": "(3)",
 		"choice_prereqs": [],
 		"professors": "",
@@ -498,7 +498,7 @@
 	    {
 		"required_prereqs": [],
 		"course_title": "MAC 1140C - Pre-Calculus Algebra",
-		"name": "MAC 1140C",
+		"name": "MAC 1140",
 		"credits": "(3)",
 		"choice_prereqs": [],
 		"professors": "",
@@ -546,7 +546,7 @@
 	    {
 		"required_prereqs": [],
 		"course_title": "MAC 2311C - Calculus with Analytic Geometry I",
-		"name": "MAC 2311C",
+		"name": "MAC 2311",
 		"credits": "(4)",
 		"choice_prereqs": [],
 		"professors": "",
