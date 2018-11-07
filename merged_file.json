@@ -527,7 +527,20 @@
 		"professors": "",
 		"credit_type": "COS-MATH",
 		"offered_with": [],
-		"children": [],
+		"children": [
+		    {
+			"required_prereqs": [],
+			"course_title": "MAC 2312 - Calculus with Analytic Geometry II",
+			"name": "MAC 2312",
+			"credits": "(4)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "COS-MATH",
+			"offered_with": [],
+			"children": [],
+			"description": "Differentiation and integration of exponential, logarithmic, inverse trigonometric functions; techniques of integration; further applications of integration; parametric equations, polar coordinates; infinite sequences and series."
+		    }
+		],
 		"description": "Analytic geometry; limits, continuity, differentiation of algebraic and trigonometric functions; applications of derivatives; integration and the fundamental theorem of calculus; applications of definite integrals."
 	    },
 	    {
