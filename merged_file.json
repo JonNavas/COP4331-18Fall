@@ -455,7 +455,32 @@
 		"professors": "",
 		"credit_type": "COS-MATH",
 		"offered_with": [],
-		"children": [],
+		"children": [
+		    {
+			"required_prereqs": [],
+			"course_title": "MAC 1114C - College Trigonometry",
+			"name": "MAC 1114C",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "COS-MATH",
+			"offered_with": [],
+			"children": [],
+			"description": "The circle arc length, identities, trigonometric functions, inverse functions, applications to simple harmonic motion, function of angles, complete development of triangle solving. Prepares students for upper level mathematics."
+		    },
+		    {
+			"required_prereqs": [],
+			"course_title": "MAC 1140C - Pre-Calculus Algebra",
+			"name": "MAC 1140C",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "COS-MATH",
+			"offered_with": [],
+			"children": [],
+			"description": "Properties and graphs of polynomials, rational, exponential and logarithmic functions, matrices, sequences and series, conics, induction, binomial theorem. Introduction to limits. Prepares students for upper level mathematics."
+		    }
+		],
 		"description": "Inequalities. High degree polynomials. Graphs, rational, logarithmic, and exponential functions. Systems of equations."
 	    },
 	    {
