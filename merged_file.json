@@ -3357,6 +3357,94 @@
 		"children": [],
 		"description": "Mandatory meeting with students and their faculty advisor for career/academic advising."	    
 	    }
+	]	
+    },
+    {
+	"COT": [
+	    {
+		"required_prereqs": [],
+		"course_title": "COT 3100C - Introduction to Discrete Structures",
+		"name": "COT 3100C",
+		"credits": "(3)",
+		"choice_prereqs": [],
+		"professors": "",
+		"credit_type": "ECS-CS",
+		"offered_with": [],
+		"children": [],
+		"description": "Logic, sets, functions, relations, combinatorics, graphics, Boolean algebras, finite-state machines, Turing machines, unsolvability, computational complexity."	    
+	    },
+	    {
+		"required_prereqs": [],
+		"course_title": "COT 3960 - CS Foundation Exam",
+		"name": "COT 3960",
+		"credits": "(0)",
+		"choice_prereqs": [],
+		"professors": "",
+		"credit_type": "ECS-CS",
+		"offered_with": [],
+		"children": [],
+		"description": "Foundation examination for computer science majors. Required before taking advanced core courses in Computer Science and upper-division 4000 and 5000 level CS electives."	    
+	    },
+	    {
+		"required_prereqs": [],
+		"course_title": "COT 4210 - Discrete Structures II",
+		"name": "COT 4210",
+		"credits": "(3)",
+		"choice_prereqs": [],
+		"professors": "",
+		"credit_type": "ECS-CS",
+		"offered_with": [],
+		"children": [],
+		"description": "Computation theory. A study of the properties of grammars and automata as formal specifications for algorithms and families of languages."	    
+	    },
+	    {
+		"required_prereqs": [],
+		"course_title": "COT 4400 - Tools for Algorithm Analysis",
+		"name": "COT 4400",
+		"credits": "(3)",
+		"choice_prereqs": [],
+		"professors": "",
+		"credit_type": "ECS-CS",
+		"offered_with": [],
+		"children": [],
+		"description": "Tools from discrete and continuous mathematics for analyzing complexity of algorithms. Order notation use and manipulation."	    
+	    },
+	    {
+		"required_prereqs": [],
+		"course_title": "COT 4500 - Numerical Calculus",
+		"name": "COT 4500",
+		"credits": "(3)",
+		"choice_prereqs": [],
+		"professors": "",
+		"credit_type": "ECS-CS",
+		"offered_with": [],
+		"children": [],
+		"description": "Numerical methods for finding roots of nonlinear equations, solutions of systems of linear equations, and ordinary differential equations."	    
+	    },
+	    {
+		"required_prereqs": [],
+		"course_title": "COT 4810 - Topics in Computer Science",
+		"name": "COT 4810",
+		"credits": "(3)",
+		"choice_prereqs": [],
+		"professors": "",
+		"credit_type": "ECS-CS",
+		"offered_with": [],
+		"children": [],
+		"description": "A range of topics from the field of Computer science; application of oral and written communication skills; social, ethical and moral issues of computing."	    
+	    },
+	    {
+		"required_prereqs": [],
+		"course_title": "COT 3930H - Mathematical Modeling and Scientific Computing",
+		"name": "COT 3930H",
+		"credits": "(3)",
+		"choice_prereqs": [],
+		"professors": "",
+		"credit_type": "ECS-CS",
+		"offered_with": [],
+		"children": [],
+		"description": "Combines Mathematics and Computing Techniques to solve a diverse array of real-life problems."	    
+	    }
 	]
     }
 ]
