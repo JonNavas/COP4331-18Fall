@@ -802,7 +802,20 @@
 		"professors": "",
 		"credit_type": "ECS-ECS",
 		"offered_with": [],
-		"children": [],
+		"children": [ {
+			
+			"required_prereqs": [],
+			"course_title": "EGS 1036C - Foundations of Leadership",
+			"name": "EGS 1036C",
+			"credits": "(2)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-IEMS",
+			"offered_with": [],
+			"children": [],
+			"description": "Seminar for LEAD Scholars in the College of Engineering & Computer Science providing a foundation of leadership, scholarship, and service regarding disciplines in the college."
+	   
+		}],
 		"description": "Overview of academic and professional requirements in various engineering disciplines."
 	    },
 	    {
