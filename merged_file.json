@@ -556,8 +556,8 @@
 		"children": [
 		    {
 			"required_prereqs": [],
-			"course_title": "MAC 2312 - Calculus with Analytic Geometry II",
-			"name": "MAC 2312",
+			"course_title": "MACC 2312 - Calculus with Analytic Geometry II",
+			"name": "MACC 2312",
 			"credits": "(4)",
 			"choice_prereqs": [],
 			"professors": "",
