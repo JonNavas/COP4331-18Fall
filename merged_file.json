@@ -1676,7 +1676,58 @@
 		"professors": "",
 		"credit_type": "ECS-CECE",
 		"offered_with": [],
-		"children": [],
+		"children": [
+		    {
+	    		"required_prereqs": [],
+			"course_title": "CES 4605 - Steel Structures",
+			"name": "CES 4605",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-CECE",
+			"offered_with": [],
+			"children": [
+			    {
+	    			"required_prereqs": [],
+				"course_title": "CES 4743C - Structural Design",
+				"name": "CES 4743C",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "ECS-CECE",
+				"offered_with": [],
+				"children": [],
+				"description": "This course prepares students for real life structural design with the fundamentals and applications of both steel and concrete analysis and design at the member and system level."
+			    }
+			],
+			"description": "Design of structural steel members and buildings; emphasis on AISC-ASD building code; introduction to AISC-LRFD building code; tension and compression members, beams, beam-columns, connections."
+		    },
+		    {
+	    		"required_prereqs": [],
+			"course_title": "CES 4702 - Reinforced Concrete Structures",
+			"name": "CES 4702",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-CECE",
+			"offered_with": [],
+			"children": [
+			    {
+	    			"required_prereqs": [],
+				"course_title": "CES 4743C - Structural Design",
+				"name": "CES 4743C",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "ECS-CECE",
+				"offered_with": [],
+				"children": [],
+				"description": "This course prepares students for real life structural design with the fundamentals and applications of both steel and concrete analysis and design at the member and system level."
+			    }
+			],
+			"description": "Design of RC members using ACI code; beam flexure and shear; compression bending; bond and development; introduction to continuous frames."
+		    }
+		],
 		"description": "Topics in structural mechanics, analysis of determinate and indeterminate structures by flexibility and stiffness methods computer and laboratory exercises on behavior of structures and materials."
 	    },
 	    {
@@ -1700,7 +1751,20 @@
 		"professors": "",
 		"credit_type": "ECS-CECE",
 		"offered_with": [],
-		"children": [],
+		"children": [
+		    {
+	    		"required_prereqs": [],
+			"course_title": "CES 4743C - Structural Design",
+			"name": "CES 4743C",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-CECE",
+			"offered_with": [],
+			"children": [],
+			"description": "This course prepares students for real life structural design with the fundamentals and applications of both steel and concrete analysis and design at the member and system level."
+		    }
+		],
 		"description": "Design of structural steel members and buildings; emphasis on AISC-ASD building code; introduction to AISC-LRFD building code; tension and compression members, beams, beam-columns, connections."
 	    },
 	    {
@@ -1712,13 +1776,26 @@
 		"professors": "",
 		"credit_type": "ECS-CECE",
 		"offered_with": [],
-		"children": [],
+		"children": [
+		    {
+	    		"required_prereqs": [],
+			"course_title": "CES 4743C - Structural Design",
+			"name": "CES 4743C",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-CECE",
+			"offered_with": [],
+			"children": [],
+			"description": "This course prepares students for real life structural design with the fundamentals and applications of both steel and concrete analysis and design at the member and system level."
+		    }
+		],
 		"description": "Design of RC members using ACI code; beam flexure and shear; compression bending; bond and development; introduction to continuous frames."
 	    },
 	    {
 	    	"required_prereqs": [],
 		"course_title": "CES 4743C - Structural Design",
-		"name": "CES 4734C",
+		"name": "CES 4743C",
 		"credits": "(3)",
 		"choice_prereqs": [],
 		"professors": "",
