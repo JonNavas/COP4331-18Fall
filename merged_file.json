@@ -2034,7 +2034,45 @@
 		"professors": "",
 		"credit_type": "ECS-ECS",
 		"offered_with": [],
-		"children": [],
+		"children": [
+		    {
+	    		"required_prereqs": [],
+			"course_title": "CEN 4802 - Software Integration, Configuration, and Testing",
+			"name": "CEN 4802",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-ECS",
+			"offered_with": [],
+			"children": [],
+			"description": "Addresses approaches and issues associated with integration of software subsystems and components into one system to ensure that the subsystems function together."
+		    },
+		    {
+	    		"required_prereqs": [],
+			"course_title": "CEN 4025 - Software Development II",
+			"name": "CEN 4025",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-ECS",
+			"offered_with": [],
+			"children": [
+			    {
+	    			"required_prereqs": [],
+				"course_title": "CEN 4910 - Software Development Project",
+				"name": "CEN 4910",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "ECS-ECS",
+				"offered_with": [],
+				"children": [],
+				"description": "A software development project using the skills acquired from Software Development I & II. Working in teams, students develop a software system, simulating an industry experience."
+			    }
+			],
+			"description": "A continuation of Software Development I with larger and more complex projects. Enterprise-level applications are covered including distributed and web-based systems using n-tier architecture."
+		    }
+		],
 		"description": "Software development concepts are introduced in the context of hands-on project implementation. SDLC, version control, design with UML, documentation, testing, 2&3-tier architecture."
 	    },
 	    {
@@ -2046,7 +2084,20 @@
 		"professors": "",
 		"credit_type": "ECS-ECS",
 		"offered_with": [],
-		"children": [],
+		"children": [
+		    {
+	    		"required_prereqs": [],
+			"course_title": "CEN 4910 - Software Development Project",
+			"name": "CEN 4910",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-ECS",
+			"offered_with": [],
+			"children": [],
+			"description": "A software development project using the skills acquired from Software Development I & II. Working in teams, students develop a software system, simulating an industry experience."
+		    }
+		],
 		"description": "A continuation of Software Development I with larger and more complex projects. Enterprise-level applications are covered including distributed and web-based systems using n-tier architecture."
 	    },
 	    {
@@ -2134,7 +2185,107 @@
 		"professors": "",
 		"credit_type": "ECS-CECE",
 		"offered_with": [],
-		"children": [],
+		"children": [
+		    {
+	    		"required_prereqs": [],
+			"course_title": "ENV 4120 - Air Pollution and Hazardous Waste Control",
+			"name": "ENV 4120",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-CECE",
+			"offered_with": [],
+			"children": [
+			    {
+	    			"required_prereqs": [],
+				"course_title": "ENV 4122C - Air Pollution Control Design",
+				"name": "ENV 4122C",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "ECS-CECE",
+				"offered_with": [],
+				"children": [],
+				"description": "Project course on design of air pollution control equipment and systems."
+			    }
+			],
+			"description": "Air pollution and hazardous waste engineering. Air resources management, engineering design, and operation of air pollution control systems. Storage, collection, processing, and disposal of hazardous wastes."
+		    },
+		    {
+	    		"required_prereqs": [],
+			"course_title": "ENV 4341 - Sustainable Resource Management",
+			"name": "ENV 4341",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-CECE",
+			"offered_with": [],
+			"children": [
+			    {
+	    			"required_prereqs": [],
+				"course_title": "ENV 4300C - Solid Waste Facility Design",
+				"name": "ENV 4300C",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "ECS-CECE",
+				"offered_with": [],
+				"children": [],
+				"description": "Project course on design of a municipal solid waste landfill."
+			    }
+			],
+			"description": "Principles of industrial ecology, life cycle analysis, regulation of solid wastes, and sustainable engineering design. Solid waste management facilities, food-energy-water nexus, carbon and water footprints."
+		    },
+		    {
+	    		"required_prereqs": [],
+			"course_title": "ENV 4531 - Environmental Engineering Unit Operations & Processes",
+			"name": "ENV 4531",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-CECE",
+			"offered_with": [],
+			"children": [
+			    {
+	    			"required_prereqs": [],
+				"course_title": "ENV 4561 - Advanced Environmental Engineering Operations & Processes",
+				"name": "ENV 4561",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "ECS-CECE",
+				"offered_with": [],
+				"children": [],
+				"description": "Advanced water and wastewater treatment including biological nutrient removal and desalination."
+			    },
+			    {
+	    			"required_prereqs": [],
+				"course_title": "ENV 4562C - Environmental Engineering Water Treatment Design",
+				"name": "ENV 4562C",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "ECS-CECE",
+				"offered_with": [],
+				"children": [],
+				"description": "Application of systems design criteria in the specification and design of a full scale potable water treatment plant."
+			    },
+			    {
+	    			"required_prereqs": [],
+				"course_title": "ENV 4433C - Environmental Engineering Wastewater Design",
+				"name": "ENV 4433C",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "ECS-CECE",
+				"offered_with": [],
+				"children": [],
+				"description": "Project course in advanced municipal and industrial wastewater treatment design with emphasis on teamwork to complete the design process."
+			    }
+			],
+			"description": "Water and wastewater treatment design considerations with effluent and sludge handling, treatment, and disposal."
+		    }
+		],
 		"description": "Introduction to concepts and terminology of environmental engineering. Stresses material and energy balances. Covers air, water and land pollution."
 	    },
 	    {
@@ -2146,7 +2297,20 @@
 		"professors": "",
 		"credit_type": "ECS-CECE",
 		"offered_with": [],
-		"children": [],
+		"children": [
+		    {
+	    		"required_prereqs": [],
+			"course_title": "ENV 4122C - Air Pollution Control Design",
+			"name": "ENV 4122C",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-CECE",
+			"offered_with": [],
+			"children": [],
+			"description": "Project course on design of air pollution control equipment and systems."
+		    }
+		],
 		"description": "Air pollution and hazardous waste engineering. Air resources management, engineering design, and operation of air pollution control systems. Storage, collection, processing, and disposal of hazardous wastes."
 	    },
 	    {
@@ -2182,7 +2346,20 @@
 		"professors": "",
 		"credit_type": "ECS-CECE",
 		"offered_with": [],
-		"children": [],
+		"children": [
+		    {
+	    		"required_prereqs": [],
+			"course_title": "ENV 4300C - Solid Waste Facility Design",
+			"name": "ENV 4300C",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-CECE",
+			"offered_with": [],
+			"children": [],
+			"description": "Project course on design of a municipal solid waste landfill."
+		    }
+		],
 		"description": "Principles of industrial ecology, life cycle analysis, regulation of solid wastes, and sustainable engineering design. Solid waste management facilities, food-energy-water nexus, carbon and water footprints."
 	    },
 	    {
@@ -2206,7 +2383,44 @@
 		"professors": "",
 		"credit_type": "ECS-CECE",
 		"offered_with": [],
-		"children": [],
+		"children": [
+		    {
+	    		"required_prereqs": [],
+			"course_title": "ENV 4561 - Advanced Environmental Engineering Operations & Processes",
+			"name": "ENV 4561",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-CECE",
+			"offered_with": [],
+			"children": [],
+			"description": "Advanced water and wastewater treatment including biological nutrient removal and desalination."
+		    },
+		    {
+	    		"required_prereqs": [],
+			"course_title": "ENV 4562C - Environmental Engineering Water Treatment Design",
+			"name": "ENV 4562C",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-CECE",
+			"offered_with": [],
+			"children": [],
+			"description": "Application of systems design criteria in the specification and design of a full scale potable water treatment plant."
+		    }
+		    {
+	    		"required_prereqs": [],
+			"course_title": "ENV 4433C - Environmental Engineering Wastewater Design",
+			"name": "ENV 4433C",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-CECE",
+			"offered_with": [],
+			"children": [],
+			"description": "Project course in advanced municipal and industrial wastewater treatment design with emphasis on teamwork to complete the design process."
+		    }
+		],
 		"description": "Water and wastewater treatment design considerations with effluent and sludge handling, treatment, and disposal."
 	    },
 	    {
@@ -2223,15 +2437,15 @@
 	    },
 	    {
 	    	"required_prereqs": [],
-		"course_title": "ENV 4561 - Advanced Environmental Engineering Operations & Processes",
-		"name": "ENV 4561",
+		"course_title": "ENV 4562C - Environmental Engineering Water Treatment Design",
+		"name": "ENV 4562C",
 		"credits": "(3)",
 		"choice_prereqs": [],
 		"professors": "",
 		"credit_type": "ECS-CECE",
 		"offered_with": [],
 		"children": [],
-		"description": "Advanced water and wastewater treatment including biological nutrient removal and desalination."
+		"description": "Application of systems design criteria in the specification and design of a full scale potable water treatment plant."
 	    }
 	]
     },
