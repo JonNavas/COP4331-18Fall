@@ -558,7 +558,7 @@
 	]
     },
     {
-	"EGN": [
+		"EGN": [
 	    {
 		"required_prereqs": [],
 		"course_title": "EGN 1007C - Engineering Concepts and Methods",
@@ -592,7 +592,32 @@
 		"professors": "",
 		"credit_type": "ECS-ECE",
 		"offered_with": [],
-		"children": [],
+		"children": [
+      {
+        "required_prereqs": [],
+        "course_title": "EGN 3420 - Engineering Analysis",
+        "name": "EGN 3420",
+        "credits": "(3)",
+        "choice_prereqs": [],
+        "professors": "",
+        "credit_type": "ECS-ECE",
+        "offered_with": [],
+        "children": [],
+        "description":
+      },
+      {
+        "required_prereqs": [],
+        "course_title": "EGN 4060 - Introduction to Robotics",
+        "name": "EGN 4060",
+        "credits": "(3)",
+        "choice_prereqs": [],
+        "professors": "",
+        "credit_type": "ECS-ECE",
+        "offered_with": [],
+        "children": [],
+        "description":
+      }
+    ],
 		"description": "Engineering analysis and computation with structured constructs. Subscripted variables, functions, input/output. Applications in embedded systems and examples in numerical methods."
 	    },
 	    {
@@ -604,7 +629,44 @@
 		"professors": "",
 		"credit_type": "ECS-CECS",
 		"offered_with": [],
-		"children": [],
+		"children": [
+      {
+        "required_prereqs": [],
+    		"course_title": "EGN 3331 - Mechanics of Materials",
+    		"name": "EGN 3331",
+    		"credits": "(3)",
+    		"choice_prereqs": [],
+    		"professors": "",
+    		"credit_type": "ECS-CECE",
+    		"offered_with": [],
+    		"children": [],
+    		"description":
+      },
+      {
+        "required_prereqs": [],
+        "course_title": "EGN 3343 - Thermodynamics",
+        "name": "EGN 3343",
+        "credits": "(3)",
+        "choice_prereqs": [],
+        "professors": "",
+        "credit_type": "ECS-MECH/AERO",
+        "offered_with": [],
+        "children": [],
+        "description":
+      },
+      {
+        "required_prereqs": [],
+        "course_title": "EGN 3358 - Thermo-Fluids-Heat Transfer",
+        "name": "EGN 3358",
+        "credits": "(3)",
+        "choice_prereqs": [],
+        "professors": "",
+        "credit_type": "ECS-MECH/AERO",
+        "offered_with": [],
+        "children": [],
+        "description":
+      }
+    ],
 		"description": "Fundamental concepts of mechanics, including resultants of force systems, free-body diagrams, equilibrium of rigid bodies, and analyses of structures."
 	    },
 	    {
@@ -740,7 +802,20 @@
 		"professors": "",
 		"credit_type": "ECS-ECS",
 		"offered_with": [],
-		"children": [],
+		"children": [
+      {
+        "required_prereqs": [],
+    		"course_title": "EGN 1007C - Engineering Concepts and Methods",
+    		"name": "EGN 1007C",
+    		"credits": "(1)",
+    		"choice_prereqs": [],
+    		"professors": "",
+    		"credit_type": "ECS-ECS",
+    		"offered_with": [],
+    		"children": [],
+    		"description":
+      }
+    ],
 		"description": "Overview of academic and professional requirements in various engineering disciplines."
 	    },
 	    {
@@ -828,7 +903,20 @@
 		"professors": "",
 		"credit_type": "ECS-ECE",
 		"offered_with": [],
-		"children": [],
+		"children": [
+      {
+        "required_prereqs": [],
+        "course_title": "EEE 4309C - Electronics II",
+        "name": "EEE 4309C",
+        "credits": "(3)",
+        "choice_prereqs": [],
+        "professors": "",
+        "credit_type": "ECS-ECE",
+        "offered_with": [],
+        "children": [],
+        "description":
+      }
+    ],
 		"description": "Electronic devices including p-n junctions, bipolar transistors, field effect transistors and device models."
 	    },
 	    {
@@ -840,7 +928,32 @@
 		"professors": "",
 		"credit_type": "ECS-ECE",
 		"offered_with": [],
-		"children": [],
+		"children": [
+      {
+        "required_prereqs": [],
+        "course_title": "EEE 4309C - Electronics II",
+        "name": "EEE 4309C",
+        "credits": "(3)",
+        "choice_prereqs": [],
+        "professors": "",
+        "credit_type": "ECS-ECE",
+        "offered_with": [],
+        "children": [],
+        "description":
+      },
+      {
+        "required_prereqs": [],
+        "course_title": "EEL 3801C - Computer Organization",
+        "name": "EEL 3801C",
+        "credits": "(3)",
+        "choice_prereqs": [],
+        "professors": "",
+        "credit_type": "ECS-ECE",
+        "offered_with": [],
+        "children": [],
+        "description":
+      }
+    ],
 		"description": "Combinational and sequential logic circuits including registers, arithmetic units, memories, finite state machines, and design with programmable logic devices."
 	    },
 	    {
@@ -852,7 +965,32 @@
 		"professors": "",
 		"credit_type": "ECS-ECE",
 		"offered_with": [],
-		"children": [],
+		"children": [
+      {
+        "required_prereqs": [],
+        "course_title": "EEE 4314 - Device Electronics for Integrates Circuits",
+        "name": "EEE 4314",
+        "credits": "(3)",
+        "choice_prereqs": [],
+        "professors": "",
+        "credit_type": "ECS-ECE",
+        "offered_with": [],
+        "children": [],
+        "description":
+      },
+      {
+        "required_prereqs": [],
+        "course_title": "EEE 4463C - MEMS Devices and Applications",
+        "name": "EEE 4463",
+        "credits": "(3)",
+        "choice_prereqs": [],
+        "professors": "",
+        "credit_type": "ECS-ECE",
+        "offered_with": [],
+        "children": [],
+        "description":
+      }
+    ],
 		"description": "Semiconductor device physics, energy band diagrams, electronic devices including p-n junctions, bipolar transistors, field effect transistors and device models."
 	    },
 	    {
@@ -902,7 +1040,7 @@
 		"offered_with": [],
 		"children": [],
 		"description": "Micro-Electro Mechanical Systems devices, microfabrication, sensors and actuators, bulk and surface micromachining, optical MEMS, instrumentation and applications."
-	    }   
+	    }
 	]
     },
     {
@@ -916,7 +1054,130 @@
 		"professors": "",
 		"credit_type": "ECS-ECE",
 		"offered_with": [],
-		"children": [],
+		"children": [
+      {
+        "required_prereqs": [],
+        "course_title": "EEE 3350 - Semiconductor Devices 1",
+        "name": "EEE 3350",
+        "credits": "(3)",
+        "choice_prereqs": [],
+        "professors": "",
+        "credit_type": "ECS-ECE",
+        "offered_with": [],
+        "children": [
+          {
+            "required_prereqs": [],
+            "course_title": "EEE 4314 - Device Electronics for Integrates Circuits",
+            "name": "EEE 4314",
+            "credits": "(3)",
+            "choice_prereqs": [],
+            "professors": "",
+            "credit_type": "ECS-ECE",
+            "offered_with": [],
+            "children": [],
+            "description":
+          },
+          {
+            "required_prereqs": [],
+            "course_title": "EEE 4463C - MEMS Devices and Applications",
+            "name": "EEE 4463",
+            "credits": "(3)",
+            "choice_prereqs": [],
+            "professors": "",
+            "credit_type": "ECS-ECE",
+            "offered_with": [],
+            "children": [],
+            "description":
+          },
+          {
+            "required_prereqs": [],
+            "course_title": "EEL 4205 - Electric Machinery",
+            "name": "EEL 4205",
+            "credits": "(3)",
+            "choice_prereqs": [],
+            "professors": "",
+            "credit_type": "ECS-ECE",
+            "offered_with": [],
+            "children": [],
+            "description":
+          },
+          {
+            "required_prereqs": [],
+            "course_title": "EEL 4216 - Fundamentals of Electric Power Systems",
+            "name": "EEL 4216",
+            "credits": "(3)",
+            "choice_prereqs": [],
+            "professors": "",
+            "credit_type": "ECS-ECE",
+            "offered_with": [],
+            "children": [
+              {
+                "required_prereqs": [],
+                "course_title": "EEL 4294 - Introduction to Smart Grid",
+                "name": "EEL 4294",
+                "credits": "(3)",
+                "choice_prereqs": [],
+                "professors": "",
+                "credit_type": "ECS-ECE",
+                "offered_with": [],
+                "children": [],
+                "description":
+              }
+            ],
+            "description":
+          }
+        ],
+        "description":
+      },
+      {
+        "required_prereqs": [],
+        "course_title": "EEL 3123C - Honors Networks and Systems",
+        "name": "EEL 3123C",
+        "credits": "(3)",
+        "choice_prereqs": [],
+        "professors": "",
+        "credit_type": "ECS-EECS",
+        "offered_with": [],
+        "children": [],
+        "description":
+      },
+      {
+        "required_prereqs": [],
+        "course_title": "EEL 3123C - Networks and Systems",
+        "name": "EEL 3123C",
+        "credits": "(3)",
+        "choice_prereqs": [],
+        "professors": "",
+        "credit_type": "ECS-ECE",
+        "offered_with": [],
+        "children": [],
+        "description":
+      },
+      {
+        "required_prereqs": [],
+        "course_title": "EEL 3290 - Global Energy Issues",
+        "name": "EEL 3290",
+        "credits": "(3)",
+        "choice_prereqs": [],
+        "professors": "",
+        "credit_type": "ECS-ECE",
+        "offered_with": [],
+        "children": [],
+        "description":
+      },
+      {
+        "required_prereqs": [],
+        "course_title": "EEL 3470 - Electromagnetic Fields",
+        "name": "EEL 3470",
+        "credits": "(3)",
+        "choice_prereqs": [],
+        "professors": "",
+        "credit_type": "ECS-ECE",
+        "offered_with": [],
+        "children": [],
+        "description":
+      }
+    ],
 		"description": "Analysis and design of linear circuits, transients, AC analysis, power calculations. The course includes recitation and exploration of areas of study within electrical and computer engineering."
 	    },
 	    {
@@ -928,7 +1189,20 @@
 		"professors": "",
 		"credit_type": "ECS-ECE",
 		"offered_with": [],
-		"children": [],
+		"children": [
+      {
+        "required_prereqs": [],
+        "course_title": "EEL 4515 - Fundamentals of Digital Communication",
+        "name": "EEL 4515",
+        "credits": "(3)",
+        "choice_prereqs": [],
+        "professors": "",
+        "credit_type": "ECS-ECE",
+        "offered_with": [],
+        "children": [],
+        "description":
+      }
+    ],
 		"description": "Axioms of probability, conditional probability, independence, law of total probability, random variables, probability distributions and density functions, second order statistics, joint distributions, random vectors, limit theorems, transformations of random variables."
 	    },
 	    {
@@ -940,7 +1214,56 @@
 		"professors": "",
 		"credit_type": "ECS-ECE",
 		"offered_with": [],
-		"children": [],
+		"children": [
+      {
+        "required_prereqs": [],
+        "course_title": "EEE 3307 - Electronics 1",
+        "name": "EEE 3307C",
+        "credits": "(3)",
+        "choice_prereqs": [],
+        "professors": "",
+        "credit_type": "ECS-ECE",
+        "offered_with": [],
+        "children": [],
+        "description":
+      },
+      {
+        "required_prereqs": [],
+        "course_title": "EEL 3552C - Signal Analysis and Analog Communication",
+        "name": "EEL 3552C",
+        "credits": "(3)",
+        "choice_prereqs": [],
+        "professors": "",
+        "credit_type": "ECS-ECE",
+        "offered_with": [],
+        "children": [],
+        "description":
+      },
+      {
+        "required_prereqs": [],
+        "course_title": "EEL 3657 - Linear Control Systems",
+        "name": "EEL 3657",
+        "credits": "(3)",
+        "choice_prereqs": [],
+        "professors": "",
+        "credit_type": "ECS-ECE",
+        "offered_with": [],
+        "children": [],
+        "description":
+      },
+      {
+        "required_prereqs": [],
+        "course_title": "EEL 4140C - Analog Filter Design",
+        "name": "EEL 4140C",
+        "credits": "(3)",
+        "choice_prereqs": [],
+        "professors": "",
+        "credit_type": "ECS-ECE",
+        "offered_with": [],
+        "children": [],
+        "description":
+      }
+    ],
 		"description": "Network functions, Laplace transforms, frequency domain analysis using Fourier series and transforms, sampling theory and Z-transforms."
 	    },
 	    {
@@ -963,7 +1286,32 @@
 		"choice_prereqs": [],
 		"professors": "",
 		"credit_type": "ECS-ECE",
-		"offered_with": [],
+		"offered_with": [
+      {
+        "required_prereqs": [],
+        "course_title": "EEL 4436C - Microwave Engineering",
+        "name": "EEL 4436C",
+        "credits": "(3)",
+        "choice_prereqs": [],
+        "professors": "",
+        "credit_type": "ECS-ECE",
+        "offered_with": [],
+        "children": [],
+        "description":
+      },
+      {
+        "required_prereqs": [],
+        "course_title": "EEL 4440 - Optical Engineering",
+        "name": "EEL 4440",
+        "credits": "(3)",
+        "choice_prereqs": [],
+        "professors": "",
+        "credit_type": "ECS-ECE",
+        "offered_with": [],
+        "children": [],
+        "description":
+      }
+    ],
 		"children": [],
 		"description": "Electric and magnet fields and electromagnetic waves."
 	    },
@@ -976,7 +1324,32 @@
 		"professors": "",
 		"credit_type": "ECS-ECE",
 		"offered_with": [],
-		"children": [],
+		"children": [
+      {
+        "required_prereqs": [],
+        "course_title": "EEL 4515 - Fundamentals of Digital Communication",
+        "name": "EEL 4515",
+        "credits": "(3)",
+        "choice_prereqs": [],
+        "professors": "",
+        "credit_type": "ECS-ECE",
+        "offered_with": [],
+        "children": [],
+        "description":
+      },
+      {
+        "required_prereqs": [],
+        "course_title": "EEL 4518 - Satellite Communications",
+        "name": "EEL 4518",
+        "credits": "(3)",
+        "choice_prereqs": [],
+        "professors": "",
+        "credit_type": "ECS-ECE",
+        "offered_with": [],
+        "children": [],
+        "description":
+      }
+    ],
 		"description": "Signals and signal space, Fourier series, Fourier Integral, transmission over linear systems, AM, FM, PM, sampling theorem and Nyquist rate."
 	    },
 	    {
@@ -1000,7 +1373,20 @@
 		"professors": "",
 		"credit_type": "ECS-ECE",
 		"offered_with": [],
-		"children": [],
+		"children": [
+      {
+        "required_prereqs": [],
+        "course_title": "EEE 4346C - Hardware Security and Trusted Circuit Design",
+        "name": "EEE 4346C",
+        "credits": "(3)",
+        "choice_prereqs": [],
+        "professors": "",
+        "credit_type": "ECS-ECE",
+        "offered_with": [],
+        "children": [],
+        "description":
+      }
+    ],
 		"description": "Computer arithmetic, instruction set architecture, performance, data path, control unit, memory hierarchy, I/O interface."
 	    },
 	    {
@@ -1048,7 +1434,20 @@
 		"professors": "",
 		"credit_type": "ECS-ECE",
 		"offered_with": [],
-		"children": [],
+		"children": [
+      {
+        "required_prereqs": [],
+        "course_title": "EEL 4294 - Introduction to Smart Grid",
+        "name": "EEL 4294",
+        "credits": "(3)",
+        "choice_prereqs": [],
+        "professors": "",
+        "credit_type": "ECS-ECE",
+        "offered_with": [],
+        "children": [],
+        "description":
+      }
+    ],
 		"description": "Three-phase power representation and analysis, transformers, per unit system, symmetrical components, faults, and transmission lines."
 	    },
 	    {
@@ -1168,7 +1567,20 @@
 		"professors": "",
 		"credit_type": "ECS-ECE",
 		"offered_with": [],
-		"children": [],
+		"children": [
+      {
+        "required_prereqs": [],
+        "course_title": "EEL 3926L - Junior Design",
+        "name": "EEL 3926L",
+        "credits": "(3)",
+        "choice_prereqs": [],
+        "professors": "",
+        "credit_type": "ECS-ECE",
+        "offered_with": [],
+        "children": [],
+        "description":
+      }
+    ],
 		"description": "Microcontroller systems, assembly language programming, data representation, memory and device interfacing, timing analysis, parallel and serial communication, timers, interrupts, signal interfacing considerations, and applications."
 	    },
 	    {
