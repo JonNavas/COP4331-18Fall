@@ -21,9 +21,7 @@ Processes for Object-Oriented Software Development Project
 
 •	As a busy student, being able to see prerequisites for all future classes without having to go through dozens of web pages would help cut down on the time it takes to enroll.
 
-•	As an interested student I would like a tool that could track and suggest classes to take in order to facilitate choosing brand new classes or electives.
-
-•		As a student I would like a tool that would allow me to easily see all classes I have previously taken in order to plan ahead and see which classes would suit me best.
+•	  As an interested student I would like a tool that would show the descriptions for classes in a neat and efficient manner, without having to search through the myUCF website.
 
 
 ## Product Backlog
