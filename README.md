@@ -21,7 +21,7 @@ Processes for Object-Oriented Software Development Project
 
 •	As a busy student, being able to see prerequisites for all future classes without having to go through dozens of web pages would help cut down on the time it takes to enroll.
 
-•	  As an interested student I would like a tool that would show the descriptions for classes in a neat and efficient manner, without having to search through the myUCF website.
+•	  As an interested student I would like a tool that would show the descriptions for classes in a neat and efficient manner, without having to search through the myUCF website. 
 
 
 ## Product Backlog
