@@ -221,6 +221,30 @@
 		"children": [
 		    {
 			"required_prereqs": [],
+			"course_title": "COT 4210 - Discrete Structures II",
+			"name": "COT 4210",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-CS",
+			"offered_with": [],
+			"children": [],
+			"description": "Computation theory. A study of the properties of grammars and automata as formal specifications for algorithms and families of languages."
+		    },
+		    {
+			"required_prereqs": [],
+			"course_title": "COT 4400 - Tools for Algorithm Analysis",
+			"name": "COT 4400",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-CS",
+			"offered_with": [],
+			"children": [],
+			"description": "Tools from discrete and continuous mathematics for analyzing complexity of algorithms. Order notation use and manipulation."
+		    },
+		    {
+			"required_prereqs": [],
 			"course_title": "COP 4600 - Operating Systems",
 			"name": "COP 4600",
 			"credits": "(3)",
@@ -4924,7 +4948,83 @@
 		"professors": "",
 		"credit_type": "ECS-CECE",
 		"offered_with": [],
-		"children": [],
+		"children": [
+		    {
+			"required_prereqs": [],
+			"course_title": "CCE 4034 - Construction Estimating and Scheduling",
+			"name": "CCE 4034",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-CECE",
+			"offered_with": [],
+			"children": [
+			    {
+				"required_prereqs": [],
+				"course_title": "CCE 4810C - Construction Design Project",
+				"name": "CCE 4810C",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "ECS-CECE",
+				"offered_with": [],
+				"children": [],
+				"description": "The preparation and development of a proposal and plan for a construction project, including construction engineering systems, site facilities, construction methods, coordination, leadership, and control. "
+			    }
+			],
+			"description": "Construction project estimating and bidding and the preparation of construction schedules, followed by in-depth coverage of time and cost control, and risk management."
+		    },
+		    {
+			"required_prereqs": [],
+			"course_title": "CCE 4402 - Construction Equipment and Productivity",
+			"name": "CCE 4402",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-CECE",
+			"offered_with": [],
+			"children": [
+			    {
+				"required_prereqs": [],
+				"course_title": "CCE 4810C - Construction Design Project",
+				"name": "CCE 4810C",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "ECS-CECE",
+				"offered_with": [],
+				"children": [],
+				"description": "The preparation and development of a proposal and plan for a construction project, including construction engineering systems, site facilities, construction methods, coordination, leadership, and control. "
+			    }
+			],
+			"description": "Selection of appropriate equipment based on operational parameters, principles of construction productivity measurement and analysis, process design, and discrete event simulation."
+		    },
+		    {
+			"required_prereqs": [],
+			"course_title": "CCE 4813 - Mechanical and Electrical Systems for Buildings",
+			"name": "CCE 4813",
+			"credits": "(4)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-CECE",
+			"offered_with": [],
+			"children": [
+			    {
+				"required_prereqs": [],
+				"course_title": "CCE 4810C - Construction Design Project",
+				"name": "CCE 4810C",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "ECS-CECE",
+				"offered_with": [],
+				"children": [],
+				"description": "The preparation and development of a proposal and plan for a construction project, including construction engineering systems, site facilities, construction methods, coordination, leadership, and control. "
+			    }
+			],
+			"description": "Design and construction of mechanical and electrical systems for buildings."
+		    }
+		],
 		"description": "Project delivery systems, construction contracts; estimating and scheduling; ethics and labor issues."
 	    },
 	    {
@@ -4936,7 +5036,20 @@
 		"professors": "",
 		"credit_type": "ECS-CECE",
 		"offered_with": [],
-		"children": [],
+		"children": [
+		    {
+			"required_prereqs": [],
+			"course_title": "CCE 4810C - Construction Design Project",
+			"name": "CCE 4810C",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-CECE",
+			"offered_with": [],
+			"children": [],
+			"description": "The preparation and development of a proposal and plan for a construction project, including construction engineering systems, site facilities, construction methods, coordination, leadership, and control. "
+		    }
+		],
 		"description": "Construction methods for civil and structural systems, design of temporary structures, safety, and building codes."
 	    },
 	    {
@@ -4948,7 +5061,20 @@
 		"professors": "",
 		"credit_type": "ECS-CECE",
 		"offered_with": [],
-		"children": [],
+		"children": [
+		    {
+			"required_prereqs": [],
+			"course_title": "CCE 4810C - Construction Design Project",
+			"name": "CCE 4810C",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-CECE",
+			"offered_with": [],
+			"children": [],
+			"description": "The preparation and development of a proposal and plan for a construction project, including construction engineering systems, site facilities, construction methods, coordination, leadership, and control. "
+		    }
+		],
 		"description": "Construction project estimating and bidding and the preparation of construction schedules, followed by in-depth coverage of time and cost control, and risk management."
 	    },
 	    {
@@ -4960,7 +5086,20 @@
 		"professors": "",
 		"credit_type": "ECS-CECE",
 		"offered_with": [],
-		"children": [],
+		"children": [
+		    {
+			"required_prereqs": [],
+			"course_title": "CCE 4810C - Construction Design Project",
+			"name": "CCE 4810C",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-CECE",
+			"offered_with": [],
+			"children": [],
+			"description": "The preparation and development of a proposal and plan for a construction project, including construction engineering systems, site facilities, construction methods, coordination, leadership, and control. "
+		    }
+		],
 		"description": "Selection of appropriate equipment based on operational parameters, principles of construction productivity measurement and analysis, process design, and discrete event simulation."
 	    },
 	    {
@@ -4984,7 +5123,20 @@
 		"professors": "",
 		"credit_type": "ECS-CECE",
 		"offered_with": [],
-		"children": [],
+		"children": [
+		    {
+			"required_prereqs": [],
+			"course_title": "CCE 4810C - Construction Design Project",
+			"name": "CCE 4810C",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-CECE",
+			"offered_with": [],
+			"children": [],
+			"description": "The preparation and development of a proposal and plan for a construction project, including construction engineering systems, site facilities, construction methods, coordination, leadership, and control. "
+		    }
+		],
 		"description": "Design and construction of mechanical and electrical systems for buildings."
 	    }
 	]
@@ -5039,7 +5191,46 @@
 		"professors": "",
 		"credit_type": "ECS-ECS",
 		"offered_with": [],
-		"children": [],
+		"children": [
+		    {
+			"required_prereqs": [],
+			"course_title": "CET 4663 - Computer and Network Security",
+			"name": "CET 4663",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-ECS",
+			"offered_with": [],
+			"children": [],
+			"description": "Fundamentals of computer security technology, including cryptography, authentication, digital signatures, and network security tools and applications."
+
+		    },
+		    {
+			"required_prereqs": [],
+			"course_title": "CET 4748 - Wide Area Networks I",
+			"name": "CET 4748",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-ECS",
+			"offered_with": [],
+			"children": [
+			    {
+				"required_prereqs": [],
+				"course_title": "CET 4749 - Wide Area Networks II",
+				"name": "CET 4749",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "ECS-ECS",
+				"offered_with": [],
+				"children": [],
+				"description": "Traffic and cost generators. Access network design. Multi-speed access designs. Multilocal-access and mesh network design."
+			    }
+			],
+			"description": "Designing Wide Area Networks; determining requirements, designing the networks, structure, choosing appropriate technologies, and evaluating results."
+		    }
+		],
 		"description": "An introductory level course in local area networks. Topics in data communications, computer networking, local area network technology, topologies, and protocols will be covered."
 
 	    },
@@ -5054,19 +5245,6 @@
 		"offered_with": [],
 		"children": [],
 		"description": "Modifying the operating systems to support new types of devices. Analysis of limitations and strengths of commercial mass storage operating systems in industry. O.S. tool box usage."
-
-	    },
-	    {
-		"required_prereqs": [],
-		"course_title": "",
-		"name": "",
-		"credits": "(3)",
-		"choice_prereqs": [],
-		"professors": "",
-		"credit_type": "ECS-ECS",
-		"offered_with": [],
-		"children": [],
-		"description": "Design and construction of mechanical and electrical systems for buildings."
 
 	    },
 	    {
@@ -5091,9 +5269,21 @@
 		"professors": "",
 		"credit_type": "ECS-ECS",
 		"offered_with": [],
-		"children": [],
+		"children": [
+		    {
+			"required_prereqs": [],
+			"course_title": "CET 4749 - Wide Area Networks II",
+			"name": "CET 4749",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-ECS",
+			"offered_with": [],
+			"children": [],
+			"description": "Traffic and cost generators. Access network design. Multi-speed access designs. Multilocal-access and mesh network design."
+		    }
+		],
 		"description": "Designing Wide Area Networks; determining requirements, designing the networks, structure, choosing appropriate technologies, and evaluating results."
-
 	    },
 	    {
 		"required_prereqs": [],
@@ -5208,7 +5398,20 @@
 		"professors": "",
 		"credit_type": "ECS-CS",
 		"offered_with": [],
-		"children": [],
+		"children": [
+		    {
+			"required_prereqs": [],
+			"course_title": "CIS 4524 - Managing IT Integration",
+			"name": "CIS 4524",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-CS",
+			"offered_with": [],
+			"children": [],
+			"description": "Requirements, acquisition and sourcing. Integration. Project management. Testing and QA. Organizational context. Architecture."
+		    }
+		],
 		"description": "Pervasive themes in IT. Organizational issues. History of IT. IT and its related and informing disciplines. Application domains. Applications of math and statistics to IT. "	    
 	    },
 	    {
@@ -5220,7 +5423,56 @@
 		"professors": "",
 		"credit_type": "ECS-CS",
 		"offered_with": [],
-		"children": [],
+		"children": [
+		    {
+			"required_prereqs": [],
+			"course_title": "CIS 4203C - Digital Forensics",
+			"name": "CIS 4203C",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-CS",
+			"offered_with": [],
+			"children": [],
+			"description": "Operating system forensics, digital media forensics, networking forensics, various digital devices forensics. User activity profiling and digital storage recovery."	    
+		    },
+		    {
+			"required_prereqs": [],
+			"course_title": "CIS 4361 - Secure Operating Systems and Administration",
+			"name": "CIS 4361",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-CS",
+			"offered_with": [],
+			"children": [],
+			"description": "Understanding of secure operating systems requirements, design principles and theories, protection methods, access control, authentication, vulnerability, analysis and case studies."	    
+		    },
+		    {
+			"required_prereqs": [],
+			"course_title": "CIS 4615 - Secure Software Development and Assurance",
+			"name": "CIS 4615",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-CS",
+			"offered_with": [],
+			"children": [],
+			"description": "Threat modeling and risk analysis, development of secure software, software assurance techniques, analyzing and auditing software."	    
+		    },
+		    {
+			"required_prereqs": [],
+			"course_title": "CIS 4940C - Topics in Cybersecurity",
+			"name": "CIS 4940C",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-EECS",
+			"offered_with": [],
+			"children": [],
+			"description": "A directed and supervised investigation of selected problems, issues, and trends in cybersecurity, with emphasis on laboratory simulations of system penetration methods and network defense strategies."	    
+		    }
+		],
 		"description": "Security theory. Legal and human factors, Malware, Intrusion patterns and tools, Windows, Unix, TCP/IP, and applications vulnerabilities. Detection. Policies and enforcement. Protection and assurance."	    
 	    },
 	    {
@@ -5232,7 +5484,32 @@
 		"professors": "",
 		"credit_type": "ECS-CS",
 		"offered_with": [],
-		"children": [],
+		"children": [
+		    {
+			"required_prereqs": [],
+			"course_title": "CIS 4203C - Digital Forensics",
+			"name": "CIS 4203C",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-CS",
+			"offered_with": [],
+			"children": [],
+			"description": "Operating system forensics, digital media forensics, networking forensics, various digital devices forensics. User activity profiling and digital storage recovery."	    
+		    },
+		    {
+			"required_prereqs": [],
+			"course_title": "CIS 4615 - Secure Software Development and Assurance",
+			"name": "CIS 4615",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-CS",
+			"offered_with": [],
+			"children": [],
+			"description": "Threat modeling and risk analysis, development of secure software, software assurance techniques, analyzing and auditing software."	    
+		    }
+		],
 		"description": "Encryption algorithms and ciphers. Public and private keys. Key infrastructures. Authentication, confidentiality, integrity, and nonrepudiation. Digital signatures and certificates. Hash and digest algorithms. Standards."	    
 	    },
 	    {
@@ -5256,7 +5533,20 @@
 		"professors": "",
 		"credit_type": "ECS-CS",
 		"offered_with": [],
-		"children": [],
+		"children": [
+		    {
+			"required_prereqs": [],
+			"course_title": "CIS 4991 - IT Career and Academic Advising II",
+			"name": "CIS 4991",
+			"credits": "(0)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-CS",
+			"offered_with": [],
+			"children": [],
+			"description": "Mandatory meeting with students and their faculty advisor for career/academic advising."	    
+		    }
+		],
 		"description": "Mandatory meeting with students and their faculty advisor for career/academic advising."	    
 	    },
 	    {
@@ -5356,7 +5646,45 @@
 		"professors": "",
 		"credit_type": "ECS-CS",
 		"offered_with": [],
-		"children": [],
+		"children": [
+		    {
+			"required_prereqs": [],
+			"course_title": "COT 3960 - CS Foundation Exam",
+			"name": "COT 3960",
+			"credits": "(0)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-CS",
+			"offered_with": [],
+			"children": [
+			    {
+				"required_prereqs": [],
+				"course_title": "COT 4210 - Discrete Structures II",
+				"name": "COT 4210",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "ECS-CS",
+				"offered_with": [],
+				"children": [],
+				"description": "Computation theory. A study of the properties of grammars and automata as formal specifications for algorithms and families of languages."
+			    },
+			    {
+				"required_prereqs": [],
+				"course_title": "COT 4400 - Tools for Algorithm Analysis",
+				"name": "COT 4400",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "ECS-CS",
+				"offered_with": [],
+				"children": [],
+				"description": "Tools from discrete and continuous mathematics for analyzing complexity of algorithms. Order notation use and manipulation."
+			    }
+			],
+			"description": "Foundation examination for computer science majors. Required before taking advanced core courses in Computer Science and upper-division 4000 and 5000 level CS electives."
+		    }
+		],
 		"description": "Logic, sets, functions, relations, combinatorics, graphics, Boolean algebras, finite-state machines, Turing machines, unsolvability, computational complexity."
 	    },
 	    {
@@ -5368,7 +5696,32 @@
 		"professors": "",
 		"credit_type": "ECS-CS",
 		"offered_with": [],
-		"children": [],
+		"children": [
+		    {
+			"required_prereqs": [],
+			"course_title": "COT 4210 - Discrete Structures II",
+			"name": "COT 4210",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-CS",
+			"offered_with": [],
+			"children": [],
+			"description": "Computation theory. A study of the properties of grammars and automata as formal specifications for algorithms and families of languages."
+		    },
+		    {
+			"required_prereqs": [],
+			"course_title": "COT 4400 - Tools for Algorithm Analysis",
+			"name": "COT 4400",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-CS",
+			"offered_with": [],
+			"children": [],
+			"description": "Tools from discrete and continuous mathematics for analyzing complexity of algorithms. Order notation use and manipulation."
+		    }
+		],
 		"description": "Foundation examination for computer science majors. Required before taking advanced core courses in Computer Science and upper-division 4000 and 5000 level CS electives."
 	    },
 	    {
