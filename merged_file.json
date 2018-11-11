@@ -1,493 +1,22 @@
 [
     {
-	"COP": [
-	    {
-		"required_prereqs": [],
-		"course_title": "COP 2500C - Concepts in Computer Science ",
-		"name": "COP 2500",
-		"credits": "(4)",
-		"choice_prereqs": [],
-		"professors": "",
-		"credit_type": "ECS-CS",
-		"offered_with": [],
-		"children": [],
-		"description": "Fundamental concepts in program design, data structures, algorithms, analysis and a survey of topics in CS. Not open to Computer Science majors."
-	    },
-	    {
-		"required_prereqs": [],
-		"course_title": "COP 4331C - Processes for Object-Oriented Software Development",
-		"name": "COP 4331C",
-		"credits": "(3)",
-		"choice_prereqs": [],
-		"professors": "",
-		"credit_type": "ECS-CS",
-		"offered_with": [],
-		"children": [],
-		"description": "Concepts, principles, processes and methods for developing large software systems featuring a team project using object-oriented design in UML and implementation in C++. "
-	    },
-	    {
-		"required_prereqs": [],
-		"course_title": "COP 4910 - Frontiers in Information Technology",
-		"name": "COP 4910",
-		"credits": "(3)",
-		"choice_prereqs": [],
-		"professors": "",
-		"credit_type": "ECS-CS",
-		"offered_with": [],
-		"children": [],
-		"description": "Research into leading edge information technologies that have a high likelihood of affecting the work place in the two to five year time frame."
-	    },
-	    {
-		"required_prereqs": [],
-		"course_title": "COP 3223C - Introduction to Programming with C ",
-		"name": "COP 3223",
-		"credits": "(5)",
-		"choice_prereqs": [],
-		"professors": "",
-		"credit_type": "ECS-CS",
-		"offered_with": [],
-		"children": [
-		    {
-			"required_prereqs": [],
-			"course_title": "COP 3502C - Computer Science I",
-			"name": "COP 3502C",
-			"credits": "(3)",
-			"choice_prereqs": [],
-			"professors": "",
-			"credit_type": "ECS-CS",
-			"offered_with": [],
-			"children": [
-			    {
-				"required_prereqs": [],
-				"course_title": "COP 3402 - Systems Software ",
-				"name": "COP 3402",
-				"credits": "(3)",
-				"choice_prereqs": [],
-				"professors": "",
-				"credit_type": "ECS-CS",
-				"offered_with": [],
-				"children": [
-				    {
-					"required_prereqs": [],
-					"course_title": "COP 4600 - Operating Systems",
-					"name": "COP 4600",
-					"credits": "(3)",
-					"choice_prereqs": [],
-					"professors": "",
-					"credit_type": "ECS-CS",
-					"offered_with": [],
-					"children": [],
-					"description": "Function and organization of operating systems, process management, virtual memory, I/O management, and file management. "
-				    }
-				],
-				"description": "Design and development of assemblers, linkers, loaders, and compilers. Study memory hierarchy, program performance, and system level I/O."
-			    },
-			    {
-				"required_prereqs": [],
-				"course_title": "COP 3503C - Computer Science II ",
-				"name": "COP 3503C",
-				"credits": "(3)",
-				"choice_prereqs": [],
-				"professors": "",
-				"credit_type": "ECS-CS",
-				"offered_with": [],
-				"children": [],
-				"description": "Algorithm design and analysis for tree, list, set, and graph data models; algorithmic strategies and applications, and algorithmic complexity analysis; sorting and searching; practical applications"
-			    },
-			    {
-				"required_prereqs": [],
-				"course_title": "COP 4020 - Programming Languages I",
-				"name": "COP 4020",
-				"credits": "(3)",
-				"choice_prereqs": [],
-				"professors": "",
-				"credit_type": "ECS-CS",
-				"offered_with": [],
-				"children": [],
-				"description": "Paradigms and fundamental concepts of programming languages are presented, including: scope, binding, abstraction, encapsulation, typing etc. Design paradigms object-oriented, functional and logic programming are presented. "
-			    },
-			    {
-				"required_prereqs": [],
-				"course_title": "COP 4331C - Processes for Object-Oriented Software Development",
-				"name": "COP 4331C",
-				"credits": "(3)",
-				"choice_prereqs": [],
-				"professors": "",
-				"credit_type": "ECS-CS",
-				"offered_with": [],
-				"children": [],
-				"description": "Concepts, principles, processes and methods for developing large software systems featuring a team project using object-oriented design in UML and implementation in C++. "
-			    },
-			    {
-				"required_prereqs": [],
-				"course_title": "COP 4516C - Problem Solving Techniques and Team Dynamics",
-				"name": "COP 4516C",
-				"credits": "(3)",
-				"choice_prereqs": [],
-				"professors": "",
-				"credit_type": "ECS-CS",
-				"offered_with": [],
-				"children": [],
-				"description": "Design and implement solutions to problems requiring the applications of the different algorithms. Team project format. "
-			    },
-			    {
-				"required_prereqs": [],
-				"course_title": "COP 4520 - Concepts of Parallel and Distributed Processing",
-				"name": "COP 4520",
-				"credits": "(3)",
-				"choice_prereqs": [],
-				"professors": "",
-				"credit_type": "ECS-CS",
-				"offered_with": [],
-				"children": [],
-				"description": "Parallel and distributed paradigms, architectures and algorithms, and the analytical tools, environments and languages needed to support these paradigms. "
-			    },
-			    {
-				"required_prereqs": [],
-				"course_title": "COP 4600 - Operating Systems",
-				"name": "COP 4600",
-				"credits": "(3)",
-				"choice_prereqs": [],
-				"professors": "",
-				"credit_type": "ECS-CS",
-				"offered_with": [],
-				"children": [],
-				"description": "Function and organization of operating systems, process management, virtual memory, I/O management, and file management. "
-			    },
-			    {
-				"required_prereqs": [],
-				"course_title": "COP 4710 - Database Systems",
-				"name": "COP 4710",
-				"credits": "(3)",
-				"choice_prereqs": [],
-				"professors": "",
-				"credit_type": "ECS-CS",
-				"offered_with": [],
-				"children": [],
-				"description": "Storage and access Structures, database models and languages, related database design, and implementation techniques for database management systems."
-			    },
-			    {
-				"required_prereqs": [],
-				"course_title": "COP 4934 - Senior Design I",
-				"name": "COP 4934",
-				"credits": "(3)",
-				"choice_prereqs": [],
-				"professors": "",
-				"credit_type": "ECS-CS",
-				"offered_with": [],
-				"children": [
-				    {
-					"required_prereqs": [],
-					"course_title": "COP 4935 - Senior Design II",
-					"name": "COP 4935",
-					"credits": "(3)",
-					"choice_prereqs": [],
-					"professors": "",
-					"credit_type": "ECS-CS",
-					"offered_with": [],
-					"children": [],
-					"description": "Students work in teams to demonstrate their knowledge of computer science and apply it to realistic and meaningful problems."
-				    }
-				],
-				"description": "Students work in teams to demonstrate their knowledge of computer science and apply it to realistic and meaningful problems. "
-			    }
-			],
-			"description": "Problem solving techniques, order analysis and notation, abstract data types, and recursion."
-		    },
-		    {
-			"required_prereqs": [],
-			"course_title": "COP 3330 - Object Oriented Programming",
-			"name": "COP 3330",
-			"credits": "(3)",
-			"choice_prereqs": [],
-			"professors": "",
-			"credit_type": "ECS-CS",
-			"offered_with": [],
-			"children": [],
-			"description": "Object oriented programming concepts (classes, objects, methods, encapsulating, inheritance, interfaces) and the expression of these concepts in the programming languages such as JAVA."
-		    }
-		],
-		"description": "Programming in C including arrays, pointer manipulation and use of standard C math and IO libraries."
-	    },
-	    {
-		"required_prereqs": [],
-		"course_title": "COT 3960 - CS Foundation Exam",
-		"name": "COP 3960",
-		"credits": "(3)",
-		"choice_prereqs": [],
-		"professors": "",
-		"credit_type": "ECS-CS",
-		"offered_with": [],
-		"children": [
-		    {
-			"required_prereqs": [],
-			"course_title": "COP 4600 - Operating Systems",
-			"name": "COP 4600",
-			"credits": "(3)",
-			"choice_prereqs": [],
-			"professors": "",
-			"credit_type": "ECS-CS",
-			"offered_with": [],
-			"children": [],
-			"description": "Function and organization of operating systems, process management, virtual memory, I/O management, and file management. "
-		    },
-		    {
-			"required_prereqs": [],
-			"course_title": "COP 4331C - Processes for Object-Oriented Software Development",
-			"name": "COP 4331C",
-			"credits": "(3)",
-			"choice_prereqs": [],
-			"professors": "",
-			"credit_type": "ECS-CS",
-			"offered_with": [],
-			"children": [],
-			"description": "Concepts, principles, processes and methods for developing large software systems featuring a team project using object-oriented design in UML and implementation in C++. "
-		    },
-		    {
-			"required_prereqs": [],
-			"course_title": "COP 4020 - Programming Languages I",
-			"name": "COP 4020",
-			"credits": "(3)",
-			"choice_prereqs": [],
-			"professors": "",
-			"credit_type": "ECS-CS",
-			"offered_with": [],
-			"children": [],
-			"description": "Paradigms and fundamental concepts of programming languages are presented, including: scope, binding, abstraction, encapsulation, typing etc. Design paradigms object-oriented, functional and logic programming are presented. "
-		    }
-		],
-		"description": "Foundation examination for computer science majors. Required before taking advanced core courses in Computer Science and upper-division 4000 and 5000 level CS electives."
-	    },
-	    {
-		"required_prereqs": [],
-		"course_title": "COP 3330 - Object Oriented Programming ",
-		"name": "COP 3330",
-		"credits": "(3)",
-		"choice_prereqs": [],
-		"professors": "",
-		"credit_type": "ECS-CS",
-		"offered_with": [],
-		"children": [],
-		"description": "Object oriented programming concepts (classes, objects, methods, encapsulating, inheritance, interfaces) and the expression of these concepts in the programming languages such as JAVA."
-	    },
-	    {
-		"required_prereqs": [],
-		"course_title": "COP 3402 - Systems Software ",
-		"name": "COP 3402",
-		"credits": "(3)",
-		"choice_prereqs": [],
-		"professors": "",
-		"credit_type": "ECS-CS",
-		"offered_with": [],
-		"children": [
-		    {
-			"required_prereqs": [],
-			"course_title": "COP 4600 - Operating Systems",
-			"name": "COP 4600",
-			"credits": "(3)",
-			"choice_prereqs": [],
-			"professors": "",
-			"credit_type": "ECS-CS",
-			"offered_with": [],
-			"children": [],
-			"description": "Function and organization of operating systems, process management, virtual memory, I/O management, and file management. "
-		    }
-		],
-		"description": "Design and development of assemblers, linkers, loaders, and compilers. Study memory hierarchy, program performance, and system level I/O."
-	    },
-	    {
-		"required_prereqs": [],
-		"course_title": "COP 3502C - Computer Science I",
-		"name": "COP 3502C",
-		"credits": "(3)",
-		"choice_prereqs": [],
-		"professors": "",
-		"credit_type": "ECS-CS",
-		"offered_with": [],
-		"children": [
-		    {
-			"required_prereqs": [],
-			"course_title": "COP 3402 - Systems Software ",
-			"name": "COP 3402",
-			"credits": "(3)",
-			"choice_prereqs": [],
-			"professors": "",
-			"credit_type": "ECS-CS",
-			"offered_with": [],
-			"children": [
-			    {
-				"required_prereqs": [],
-				"course_title": "COP 4600 - Operating Systems",
-				"name": "COP 4600",
-				"credits": "(3)",
-				"choice_prereqs": [],
-				"professors": "",
-				"credit_type": "ECS-CS",
-				"offered_with": [],
-				"children": [],
-				"description": "Function and organization of operating systems, process management, virtual memory, I/O management, and file management. "
-			    }
-			],
-			"description": "Design and development of assemblers, linkers, loaders, and compilers. Study memory hierarchy, program performance, and system level I/O."
-		    },
-		    {
-			"required_prereqs": [],
-			"course_title": "COP 3503C - Computer Science II ",
-			"name": "COP 3503C",
-			"credits": "(3)",
-			"choice_prereqs": [],
-			"professors": "",
-			"credit_type": "ECS-CS",
-			"offered_with": [],
-			"children": [],
-			"description": "Algorithm design and analysis for tree, list, set, and graph data models; algorithmic strategies and applications, and algorithmic complexity analysis; sorting and searching; practical applications"
-		    },
-		    {
-			"required_prereqs": [],
-			"course_title": "COP 4020 - Programming Languages I",
-			"name": "COP 4020",
-			"credits": "(3)",
-			"choice_prereqs": [],
-			"professors": "",
-			"credit_type": "ECS-CS",
-			"offered_with": [],
-			"children": [],
-			"description": "Paradigms and fundamental concepts of programming languages are presented, including: scope, binding, abstraction, encapsulation, typing etc. Design paradigms object-oriented, functional and logic programming are presented. "
-		    },
-		    {
-			"required_prereqs": [],
-			"course_title": "COP 4331C - Processes for Object-Oriented Software Development",
-			"name": "COP 4331C",
-			"credits": "(3)",
-			"choice_prereqs": [],
-			"professors": "",
-			"credit_type": "ECS-CS",
-			"offered_with": [],
-			"children": [],
-			"description": "Concepts, principles, processes and methods for developing large software systems featuring a team project using object-oriented design in UML and implementation in C++. "
-		    },
-		    {
-			"required_prereqs": [],
-			"course_title": "COP 4516C - Problem Solving Techniques and Team Dynamics",
-			"name": "COP 4516C",
-			"credits": "(3)",
-			"choice_prereqs": [],
-			"professors": "",
-			"credit_type": "ECS-CS",
-			"offered_with": [],
-			"children": [],
-			"description": "Design and implement solutions to problems requiring the applications of the different algorithms. Team project format. "
-		    },
-		    {
-			"required_prereqs": [],
-			"course_title": "COP 4520 - Concepts of Parallel and Distributed Processing",
-			"name": "COP 4520",
-			"credits": "(3)",
-			"choice_prereqs": [],
-			"professors": "",
-			"credit_type": "ECS-CS",
-			"offered_with": [],
-			"children": [],
-			"description": "Parallel and distributed paradigms, architectures and algorithms, and the analytical tools, environments and languages needed to support these paradigms. "
-		    },
-		    {
-			"required_prereqs": [],
-			"course_title": "COP 4600 - Operating Systems",
-			"name": "COP 4600",
-			"credits": "(3)",
-			"choice_prereqs": [],
-			"professors": "",
-			"credit_type": "ECS-CS",
-			"offered_with": [],
-			"children": [],
-			"description": "Function and organization of operating systems, process management, virtual memory, I/O management, and file management. "
-		    },
-		    {
-			"required_prereqs": [],
-			"course_title": "COP 4710 - Database Systems",
-			"name": "COP 4710",
-			"credits": "(3)",
-			"choice_prereqs": [],
-			"professors": "",
-			"credit_type": "ECS-CS",
-			"offered_with": [],
-			"children": [],
-			"description": "Storage and access Structures, database models and languages, related database design, and implementation techniques for database management systems."
-		    },
-		    {
-			"required_prereqs": [],
-			"course_title": "COP 4934 - Senior Design I",
-			"name": "COP 4934",
-			"credits": "(3)",
-			"choice_prereqs": [],
-			"professors": "",
-			"credit_type": "ECS-CS",
-			"offered_with": [],
-			"children": [
-			    {
-				"required_prereqs": [],
-				"course_title": "COP 4935 - Senior Design II",
-				"name": "COP 4935",
-				"credits": "(3)",
-				"choice_prereqs": [],
-				"professors": "",
-				"credit_type": "ECS-CS",
-				"offered_with": [],
-				"children": [],
-				"description": "Students work in teams to demonstrate their knowledge of computer science and apply it to realistic and meaningful problems."
-			    }
-			],
-			"description": "Students work in teams to demonstrate their knowledge of computer science and apply it to realistic and meaningful problems. "
-		    }
-		],
-		"description": "Problem solving techniques, order analysis and notation, abstract data types, and recursion."
-	    }
-	]
-    },
-    {
 	"MAC": [
 	    {
 		"required_prereqs": [],
 		"course_title": "MAC 1105C - College Algebra",
-		"name": "MAC 1105",
+		"name": "MAC 1105C",
 		"credits": "(3)",
 		"choice_prereqs": [],
 		"professors": "",
 		"credit_type": "COS-MATH",
 		"offered_with": [],
-		"children": [
-		    {
-			"required_prereqs": [],
-			"course_title": "MAC 1114C - College Trigonometry",
-			"name": "MAC 1114",
-			"credits": "(3)",
-			"choice_prereqs": [],
-			"professors": "",
-			"credit_type": "COS-MATH",
-			"offered_with": [],
-			"children": [
-			    {
-				"required_prereqs": [],
-				"course_title": "MAC 1140C - Pre-Calculus Algebra",
-				"name": "MAC 1140",
-				"credits": "(3)",
-				"choice_prereqs": [],
-				"professors": "",
-				"credit_type": "COS-MATH",
-				"offered_with": [],
-				"children": [],
-				"description": "Properties and graphs of polynomials, rational, exponential and logarithmic functions, matrices, sequences and series, conics, induction, binomial theorem. Introduction to limits. Prepares students for upper level mathematics."
-			    }
-			],
-			"description": "The circle arc length, identities, trigonometric functions, inverse functions, applications to simple harmonic motion, function of angles, complete development of triangle solving. Prepares students for upper level mathematics."
-		    }
-		],
+		"children": [],
 		"description": "Inequalities. High degree polynomials. Graphs, rational, logarithmic, and exponential functions. Systems of equations."
 	    },
 	    {
 		"required_prereqs": [],
 		"course_title": "MAC 1114C - College Trigonometry",
-		"name": "MAC 1114",
+		"name": "MAC 1114C",
 		"credits": "(3)",
 		"choice_prereqs": [],
 		"professors": "",
@@ -499,7 +28,7 @@
 	    {
 		"required_prereqs": [],
 		"course_title": "MAC 1140C - Pre-Calculus Algebra",
-		"name": "MAC 1140",
+		"name": "MAC 1140C",
 		"credits": "(3)",
 		"choice_prereqs": [],
 		"professors": "",
@@ -547,37 +76,13 @@
 	    {
 		"required_prereqs": [],
 		"course_title": "MAC 2311C - Calculus with Analytic Geometry I",
-		"name": "MAC 2311",
+		"name": "MAC 2311C",
 		"credits": "(4)",
 		"choice_prereqs": [],
 		"professors": "",
 		"credit_type": "COS-MATH",
 		"offered_with": [],
-		"children": [
-		    {
-			"required_prereqs": [],
-			"course_title": "MAC 2312 - Calculus with Analytic Geometry II",
-			"name": "MAC 2312",
-			"credits": "(4)",
-			"choice_prereqs": [],
-			"professors": "",
-			"credit_type": "COS-MATH",
-			"offered_with": [],
-			"children": [		    {
-			    "required_prereqs": [],
-			    "course_title": "MAC 2313 - Calculus with Analytic Geometry III",
-			    "name": "MAC 2313",
-			    "credits": "(4)",
-			    "choice_prereqs": [],
-			    "professors": "",
-			    "credit_type": "COS-MATH",
-			    "offered_with": [],
-			    "children": [],
-			    "description": "Geometry of higher dimensional Euclidean space; vectors and vector functions; partial derivatives; multiple integrals; line integrals; vector fields; Green’s Theorem and Stoke’s Theorem."
-			}],
-			"description": "Differentiation and integration of exponential, logarithmic, inverse trigonometric functions; techniques of integration; further applications of integration; parametric equations, polar coordinates; infinite sequences and series."
-		    }
-		],
+		"children": [],
 		"description": "Analytic geometry; limits, continuity, differentiation of algebraic and trigonometric functions; applications of derivatives; integration and the fundamental theorem of calculus; applications of definite integrals."
 	    },
 	    {
@@ -589,20 +94,7 @@
 		"professors": "",
 		"credit_type": "COS-MATH",
 		"offered_with": [],
-		"children": [
-		    {
-		    "required_prereqs": [],
-		    "course_title": "MAC 2313 - Calculus with Analytic Geometry III",
-		    "name": "MAC 2313",
-		    "credits": "(4)",
-		    "choice_prereqs": [],
-		    "professors": "",
-		    "credit_type": "COS-MATH",
-		    "offered_with": [],
-		    "children": [],
-		    "description": "Geometry of higher dimensional Euclidean space; vectors and vector functions; partial derivatives; multiple integrals; line integrals; vector fields; Green’s Theorem and Stoke’s Theorem."
-		    }
-		],
+		"children": [],
 		"description": "Differentiation and integration of exponential, logarithmic, inverse trigonometric functions; techniques of integration; further applications of integration; parametric equations, polar coordinates; infinite sequences and series."
 	    },
 	    {
@@ -802,20 +294,7 @@
 		"professors": "",
 		"credit_type": "ECS-ECS",
 		"offered_with": [],
-		"children": [ {
-			
-			"required_prereqs": [],
-			"course_title": "EGS 1036C - Foundations of Leadership",
-			"name": "EGS 1036C",
-			"credits": "(2)",
-			"choice_prereqs": [],
-			"professors": "",
-			"credit_type": "ECS-IEMS",
-			"offered_with": [],
-			"children": [],
-			"description": "Seminar for LEAD Scholars in the College of Engineering & Computer Science providing a foundation of leadership, scholarship, and service regarding disciplines in the college."
-	   
-		}],
+		"children": [],
 		"description": "Overview of academic and professional requirements in various engineering disciplines."
 	    },
 	    {
@@ -889,7 +368,7 @@
 		"offered_with": [],
 		"children": [],
 		"description": "Students will reflect upon and define their professional approach. Students will develop their professional portfolio, concept of operations, and individual strategic plan."
-	    }
+	    },	    
 	]
     },
     {
@@ -1751,32 +1230,7 @@
 		"professors": "",
 		"credit_type": "ECS-CECE",
 		"offered_with": [],
-		"children": [
-		    {
-	    		"required_prereqs": [],
-			"course_title": "CES 4605 - Steel Structures",
-			"name": "CES 4605",
-			"credits": "(3)",
-			"choice_prereqs": [],
-			"professors": "",
-			"credit_type": "ECS-CECE",
-			"offered_with": [],
-			"children": [],
-			"description": "Design of structural steel members and buildings; emphasis on AISC-ASD building code; introduction to AISC-LRFD building code; tension and compression members, beams, beam-columns, connections."
-		    },
-		    {
-	    		"required_prereqs": [],
-			"course_title": "CES 4702 - Reinforced Concrete Structures",
-			"name": "CES 4702",
-			"credits": "(3)",
-			"choice_prereqs": [],
-			"professors": "",
-			"credit_type": "ECS-CECE",
-			"offered_with": [],
-			"children": [],
-			"description": "Design of RC members using ACI code; beam flexure and shear; compression bending; bond and development; introduction to continuous frames."
-		    }
-		],
+		"children": [],
 		"description": "Topics in structural mechanics, analysis of determinate and indeterminate structures by flexibility and stiffness methods computer and laboratory exercises on behavior of structures and materials."
 	    },
 	    {
@@ -1800,20 +1254,7 @@
 		"professors": "",
 		"credit_type": "ECS-CECE",
 		"offered_with": [],
-		"children": [
-		    {
-	    		"required_prereqs": [],
-			"course_title": "CES 4743C - Structural Design",
-			"name": "CES 4734C",
-			"credits": "(3)",
-			"choice_prereqs": [],
-			"professors": "",
-			"credit_type": "ECS-CECE",
-			"offered_with": [],
-			"children": [],
-			"description": "This course prepares students for real life structural design with the fundamentals and applications of both steel and concrete analysis and design at the member and system level."
-		    }
-		],
+		"children": [],
 		"description": "Design of structural steel members and buildings; emphasis on AISC-ASD building code; introduction to AISC-LRFD building code; tension and compression members, beams, beam-columns, connections."
 	    },
 	    {
@@ -1825,20 +1266,7 @@
 		"professors": "",
 		"credit_type": "ECS-CECE",
 		"offered_with": [],
-		"children": [
-		    {
-	    		"required_prereqs": [],
-			"course_title": "CES 4743C - Structural Design",
-			"name": "CES 4734C",
-			"credits": "(3)",
-			"choice_prereqs": [],
-			"professors": "",
-			"credit_type": "ECS-CECE",
-			"offered_with": [],
-			"children": [],
-			"description": "This course prepares students for real life structural design with the fundamentals and applications of both steel and concrete analysis and design at the member and system level."
-		    }
-		],
+		"children": [],
 		"description": "Design of RC members using ACI code; beam flexure and shear; compression bending; bond and development; introduction to continuous frames."
 	    },
 	    {
@@ -1866,83 +1294,7 @@
 		"professors": "",
 		"credit_type": "ECS-CECE",
 		"offered_with": [],
-		"children": [
-		    {
-	    		"required_prereqs": [],
-			"course_title": "CWR 4202C - Hydraulics",
-			"name": "CWR 4202C",
-			"credits": "(3)",
-			"choice_prereqs": [],
-			"professors": "",
-			"credit_type": "ECS-CECE",
-			"offered_with": [],
-			"children": [
-			    {
-	    			"required_prereqs": [],
-				"course_title": "CWR 4120 - Hydrology",
-				"name": "CWR 4120",
-				"credits": "(3)",
-				"choice_prereqs": [],
-				"professors": "",
-				"credit_type": "ECS-CECE",
-				"offered_with": [],
-				"children": [
-				    {
-	    				"required_prereqs": [],
-					"course_title": "CWR 4812C - Water Resources Design",
-					"name": "CWR 4812C",
-					"credits": "(3)",
-					"choice_prereqs": [],
-					"professors": "",
-					"credit_type": "ECS-CECE",
-					"offered_with": [],
-					"children": [],
-					"description": "Project course for the design of storm water, potable and sewer transmission systems using local and state regulations."
-				    }
-				],
-				"description": "Occurrence, distribution, and properties of fresh water on Earth and movement via physical processes. Application of hydrology, fluid mechanics, and computation to water resources."
-			    },
-			    {
-	    			"required_prereqs": [],
-				"course_title": "CWR 4124 - Hydrogeology",
-				"name": "CWR 4124",
-				"credits": "(3)",
-				"choice_prereqs": [],
-				"professors": "",
-				"credit_type": "ECS-CECE",
-				"offered_with": [],
-				"children": [],
-				"description": "Fundamentals of subsurface flow and transport, role of groundwater in the hydrologic cycle, relation of groundwater flow to geologic structure, and management of contaminated groundwater."
-			    }
-			],
-			"description": "Application of basic principles of fluids at rest and in motion to analysis and design of hydraulic systems. Empirical relationships for practical engineering problems."
-		    },
-		    {
-	    		"required_prereqs": [],
-			"course_title": "CWR 4632C - Water Resources Engineering I",
-			"name": "CWR 4632C",
-			"credits": "(4)",
-			"choice_prereqs": [],
-			"professors": "",
-			"credit_type": "ECS-CECE",
-			"offered_with": [],
-			"children": [
-			    {
-	    			"required_prereqs": [],
-				"course_title": "CWR 4633C - Water Resources Engineering II",
-				"name": "CWR 4633C",
-				"credits": "(3)",
-				"choice_prereqs": [],
-				"professors": "",
-				"credit_type": "ECS-CECE",
-				"offered_with": [],
-				"children": [],
-				"description": "Provision of advanced understanding of hydrology, hydrologic river routing, open/closed channel, and groundwater hydraulic and some engineering applications of these concepts."
-			    }
-			],
-			"description": "Descriptive and quantitative aspect of water in the earth’s environment and its engineering implications, including analysis of surface water systems, design of hydraulic structures, and stormwater management."
-		    }
-		],
+		"children": [],
 		"description": "Fundamentals of fluid mechanics with hydraulic applications: fluid properties, hydrostatics, dimensional analysis, energy, momentum, continuity, and steady flow."
 	    },
 	    {
@@ -1954,20 +1306,7 @@
 		"professors": "",
 		"credit_type": "ECS-CECE",
 		"offered_with": [],
-		"children": [
-		    {
-	    		"required_prereqs": [],
-			"course_title": "CWR 4812C - Water Resources Design",
-			"name": "CWR 4812C",
-			"credits": "(3)",
-			"choice_prereqs": [],
-			"professors": "",
-			"credit_type": "ECS-CECE",
-			"offered_with": [],
-			"children": [],
-			"description": "Project course for the design of storm water, potable and sewer transmission systems using local and state regulations."
-		    }
-		],
+		"children": [],
 		"description": "Occurrence, distribution, and properties of fresh water on Earth and movement via physical processes. Application of hydrology, fluid mechanics, and computation to water resources."
 	    },
 	    {
@@ -1991,32 +1330,7 @@
 		"professors": "",
 		"credit_type": "ECS-CECE",
 		"offered_with": [],
-		"children": [
-		    {
-	    		"required_prereqs": [],
-			"course_title": "CWR 4120 - Hydrology",
-			"name": "CWR 4120",
-			"credits": "(3)",
-			"choice_prereqs": [],
-			"professors": "",
-			"credit_type": "ECS-CECE",
-			"offered_with": [],
-			"children": [],
-			"description": "Occurrence, distribution, and properties of fresh water on Earth and movement via physical processes. Application of hydrology, fluid mechanics, and computation to water resources."
-		    },
-		    {
-	    		"required_prereqs": [],
-			"course_title": "CWR 4124 - Hydrogeology",
-			"name": "CWR 4124",
-			"credits": "(3)",
-			"choice_prereqs": [],
-			"professors": "",
-			"credit_type": "ECS-CECE",
-			"offered_with": [],
-			"children": [],
-			"description": "Fundamentals of subsurface flow and transport, role of groundwater in the hydrologic cycle, relation of groundwater flow to geologic structure, and management of contaminated groundwater."
-		    }
-		],
+		"children": [],
 		"description": "Application of basic principles of fluids at rest and in motion to analysis and design of hydraulic systems. Empirical relationships for practical engineering problems."
 	    },
 	    {
@@ -2028,20 +1342,7 @@
 		"professors": "",
 		"credit_type": "ECS-CECE",
 		"offered_with": [],
-		"children": [
-		    {
-	    		"required_prereqs": [],
-			"course_title": "CWR 4633C - Water Resources Engineering II",
-			"name": "CWR 4633C",
-			"credits": "(3)",
-			"choice_prereqs": [],
-			"professors": "",
-			"credit_type": "ECS-CECE",
-			"offered_with": [],
-			"children": [],
-			"description": "Provision of advanced understanding of hydrology, hydrologic river routing, open/closed channel, and groundwater hydraulic and some engineering applications of these concepts."
-		    }
-		],
+		"children": [],
 		"description": "Descriptive and quantitative aspect of water in the earth’s environment and its engineering implications, including analysis of surface water systems, design of hydraulic structures, and stormwater management."
 	    },
 	    {
@@ -2279,7 +1580,8 @@
 		"offered_with": [],
 		"children": [],
 		"description": "Advanced water and wastewater treatment including biological nutrient removal and desalination."
-	    }
+	    },
+	    
 	]
     },
     {
@@ -2574,7 +1876,8 @@
 	    },
 	    {
 	    	"required_prereqs": [],
-		"course_title": "EML 4504 - Design & Analysis of Machine Components II",
+		"course_title": "EML 4504 - Design & Analysis of Machine Components II
+",
 		"name": "EML 4504",
 		"credits": "(3)",
 		"choice_prereqs": [],
@@ -2634,7 +1937,8 @@
 	    },
 	    {
 	    	"required_prereqs": [],
-		"course_title": "EML 4931 - Mechanical Career and Academic Faculty Advising II",
+		"course_title": "EML 4931 - Mechanical Career and Academic Faculty Advising II
+",
 		"name": "EML 4931",
 		"credits": "(0)",
 		"choice_prereqs": [],
@@ -3510,7 +2814,7 @@
 		"credit_type": "ECS-CS",
 		"offered_with": [],
 		"children": [],
-		"description": "Requirements, acquisition and sourcing. Integration. Project management. Testing and QA. Organizational context. Architecture."
+		"description": "Requirements, acquisition and sourcing. Integration. Project management. Testing and QA. Organizational context. Architecture."	    PPPP
 	    },
 	    {
 		"required_prereqs": [],
@@ -3547,94 +2851,6 @@
 		"offered_with": [],
 		"children": [],
 		"description": "Mandatory meeting with students and their faculty advisor for career/academic advising."	    
-	    }
-	]	
-    },
-    {
-	"COT": [
-	    {
-		"required_prereqs": [],
-		"course_title": "COT 3100C - Introduction to Discrete Structures",
-		"name": "COT 3100C",
-		"credits": "(3)",
-		"choice_prereqs": [],
-		"professors": "",
-		"credit_type": "ECS-CS",
-		"offered_with": [],
-		"children": [],
-		"description": "Logic, sets, functions, relations, combinatorics, graphics, Boolean algebras, finite-state machines, Turing machines, unsolvability, computational complexity."	    
-	    },
-	    {
-		"required_prereqs": [],
-		"course_title": "COT 3960 - CS Foundation Exam",
-		"name": "COT 3960",
-		"credits": "(0)",
-		"choice_prereqs": [],
-		"professors": "",
-		"credit_type": "ECS-CS",
-		"offered_with": [],
-		"children": [],
-		"description": "Foundation examination for computer science majors. Required before taking advanced core courses in Computer Science and upper-division 4000 and 5000 level CS electives."	    
-	    },
-	    {
-		"required_prereqs": [],
-		"course_title": "COT 4210 - Discrete Structures II",
-		"name": "COT 4210",
-		"credits": "(3)",
-		"choice_prereqs": [],
-		"professors": "",
-		"credit_type": "ECS-CS",
-		"offered_with": [],
-		"children": [],
-		"description": "Computation theory. A study of the properties of grammars and automata as formal specifications for algorithms and families of languages."	    
-	    },
-	    {
-		"required_prereqs": [],
-		"course_title": "COT 4400 - Tools for Algorithm Analysis",
-		"name": "COT 4400",
-		"credits": "(3)",
-		"choice_prereqs": [],
-		"professors": "",
-		"credit_type": "ECS-CS",
-		"offered_with": [],
-		"children": [],
-		"description": "Tools from discrete and continuous mathematics for analyzing complexity of algorithms. Order notation use and manipulation."	    
-	    },
-	    {
-		"required_prereqs": [],
-		"course_title": "COT 4500 - Numerical Calculus",
-		"name": "COT 4500",
-		"credits": "(3)",
-		"choice_prereqs": [],
-		"professors": "",
-		"credit_type": "ECS-CS",
-		"offered_with": [],
-		"children": [],
-		"description": "Numerical methods for finding roots of nonlinear equations, solutions of systems of linear equations, and ordinary differential equations."	    
-	    },
-	    {
-		"required_prereqs": [],
-		"course_title": "COT 4810 - Topics in Computer Science",
-		"name": "COT 4810",
-		"credits": "(3)",
-		"choice_prereqs": [],
-		"professors": "",
-		"credit_type": "ECS-CS",
-		"offered_with": [],
-		"children": [],
-		"description": "A range of topics from the field of Computer science; application of oral and written communication skills; social, ethical and moral issues of computing."	    
-	    },
-	    {
-		"required_prereqs": [],
-		"course_title": "COT 3930H - Mathematical Modeling and Scientific Computing",
-		"name": "COT 3930H",
-		"credits": "(3)",
-		"choice_prereqs": [],
-		"professors": "",
-		"credit_type": "ECS-CS",
-		"offered_with": [],
-		"children": [],
-		"description": "Combines Mathematics and Computing Techniques to solve a diverse array of real-life problems."	    
 	    }
 	]
     }
