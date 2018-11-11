@@ -2488,810 +2488,810 @@
 		],
 		"description": "Introductory understanding and hands-on experience on computer aided engineering including computer aided design (CAD), computer aided manufacturing (CAM), and computer aided analysis."
 	    },
-	{
-	    "required_prereqs": [],
-	    "course_title": "EML 3034C - Modeling Methods in Mechanical and Aerospace Engineering",
-	    "name": "EML 3034C",
-	    "credits": "(3)",
-	    "choice_prereqs": [],
-	    "professors": "",
-	    "credit_type": "ECS-MECH/AERO",
-	    "offered_with": [],
-	    "children": [
-		{
-	    	    "required_prereqs": [],
-		    "course_title": "EML 4142 - Heat Transfer",
-		    "name": "EML 4142",
-		    "credits": "(3)",
-		    "choice_prereqs": [],
-		    "professors": "",
-		    "credit_type": "ECS-MECH/AERO",
-		    "offered_with": [],
-		    "children": [
-			{
-	    		    "required_prereqs": [],
-			    "course_title": "EML 4143 - Heat Transfer II",
-			    "name": "EML 4143",
-			    "credits": "(3)",
-			    "choice_prereqs": [],
-			    "professors": "",
-			    "credit_type": "ECS-MECH/AERO",
-			    "offered_with": [],
-			    "children": [],
-			    "description": "Advanced topics in heat transfer, multi-dimensional conduction, transient conduction, convection heat transfer, participating medium, boiling and condensation."
-			},
-			{
-	    		    "required_prereqs": [],
-			    "course_title": "EML 4306C - Energy Systems Lab",
-			    "name": "EML 4306C",
-			    "credits": "(3)",
-			    "choice_prereqs": [],
-			    "professors": "",
-			    "credit_type": "ECS-MECH/AERO",
-			    "offered_with": [],
-			    "children": [],
-			    "description": "Design of experiments in Thermo-Fluid Systems with emphasis on project team activity."
-			},
-			{
-	    		    "required_prereqs": [],
-			    "course_title": "EML 4454 - Turbines for Sustainable Power",
-			    "name": "EML 4454",
-			    "credits": "(3)",
-			    "choice_prereqs": [],
-			    "professors": "",
-			    "credit_type": "ECS-MECH/AERO",
-			    "offered_with": [],
-			    "children": [],
-			    "description": "Multidisciplinary aspects of turbine design for sustainable power generation including aerodynamics to combustion and emissions to reliability; covers multiple applications of conventional and green technologies."
-			},
-			{
-	    		    "required_prereqs": [],
-			    "course_title": "EML 4501C - Engineering Design I",
-			    "name": "EML 4501C",
-			    "credits": "(3)",
-			    "choice_prereqs": [],
-			    "professors": "",
-			    "credit_type": "ECS-MECH/AERO",
-			    "offered_with": [],
-			    "children": [
-				{
-	    			    "required_prereqs": [],
-				    "course_title": "EML 4502C - Engineering Design II",
-				    "name": "EML 4502C",
-				    "credits": "(3)",
-				    "choice_prereqs": [],
-				    "professors": "",
-				    "credit_type": "ECS-MECH/AERO",
-				    "offered_with": [],
-				    "children": [],
-				    "description": "Continuation of the design process in the team building and testing of a prototype. A test plan and a test report are completed. "
-				}
-			    ],
-			    "description": "Application of the design process in the team solution of a state-of-the-art problem. Aerospace, mechanical, thermo-fluid, or material problems are considered."
-			},
-			{
-	    		    "required_prereqs": [],
-			    "course_title": "EML 4602 - Applied HVAC Engineering",
-			    "name": "EML 4602",
-			    "credits": "(3)",
-			    "choice_prereqs": [],
-			    "professors": "",
-			    "credit_type": "ECS-MECH/AERO",
-			    "offered_with": [],
-			    "children": [],
-			    "description": "Applications of HVAC systems design with the objective of optimizing energy efficiency, humidity control, ventilation, and indoor air quality. Dehumidification performance of the various HVAC system types and their interactions with the building."
-			}
-		    ],
-		    "description": "Conduction, radiation, and convection heat transfer. Basic energy balances emphasized. Steady state and transient problems, analysis and design of simple heat exchangers."
-		},
-		{
-	    	    "required_prereqs": [],
-		    "course_title": "EML 4225 - Introduction to Vibrations and Controls",
-		    "name": "EML 4225",
-		    "credits": "(3)",
-		    "choice_prereqs": [],
-		    "professors": "",
-		    "credit_type": "ECS-MECH/AERO",
-		    "offered_with": [],
-		    "children": [
-			{
-	    		    "required_prereqs": [],
-			    "course_title": "EML 4260 - Dynamics of Machinery",
-			    "name": "EML 4260",
-			    "credits": "(3)",
-			    "choice_prereqs": [],
-			    "professors": "",
-			    "credit_type": "ECS-MECH/AERO",
-			    "offered_with": [],
-			    "children": [],
-			    "description": "Critical speeds and response of flexible rotor systems, whirl, gyroscopic effects; balancing of rotating and reciprocating masses; cam dynamics."
-			},
-			{
-	    		    "required_prereqs": [],
-			    "course_title": "EML 4264 - Vehicle Dynamics",
-			    "name": "EML 4264",
-			    "credits": "(3)",
-			    "choice_prereqs": [],
-			    "professors": "",
-			    "credit_type": "ECS-MECH/AERO",
-			    "offered_with": [],
-			    "children": [],
-			    "description": "Basic mechanics governing vehicle dynamics, performance and handling; acceleration, braking, ride, cornering, suspension, steering, rollover. "
-			},
-			{			
-	    		    "required_prereqs": [],
-			    "course_title": "EML 4301C - Mechanical Systems Lab",
-			    "name": "EML 4301C",
-			    "credits": "(3)",
-			    "choice_prereqs": [],
-			    "professors": "",
-			    "credit_type": "ECS-MECH/AERO",
-			    "offered_with": [],
-			    "children": [],
-			    "description": "Teaching laboratory in solid mechanics, dynamic vibrations and control-feedback testing and theory; designing and conducting experiments; analyzing and interpreting data."
-			},
-			{
-	    		    "required_prereqs": [],
-			    "course_title": "EML 4313 - Intermediate System Dynamics and Controls",
-			    "name": "EML 4313",
-			    "credits": "(3)",
-			    "choice_prereqs": [],
-			    "professors": "",
-			    "credit_type": "ECS-MECH/AERO",
-			    "offered_with": [],
-			    "children": [
-				{
-	    			    "required_prereqs": [],
-				    "course_title": "EML 4804C - Digital Control in Mechatronics",
-				    "name": "EML 4804C",
-				    "credits": "(3)",
-				    "choice_prereqs": [],
-				    "professors": "",
-				    "credit_type": "ECS-MECH/AERO",
-				    "offered_with": [],
-				    "children": [],
-				    "description": "Discrete microprocessor control of mechatronics dynamic systems using state-space representation, digital controllers, design for mechatronic applications."
-				}
-			    ],
-			    "description": "Free and forced vibration analysis of mechanical systems with multi degrees of freedom; normal modes and modal analysis; systems concepts, stability criteria, role of uncertainty in feedback and frequency domain control design."
-			},		    
-			{
-	    		    "required_prereqs": [],
-			    "course_title": "EML 4501C - Engineering Design I",
-			    "name": "EML 4501C",
-			    "credits": "(3)",
-			    "choice_prereqs": [],
-			    "professors": "",
-			    "credit_type": "ECS-MECH/AERO",
-			    "offered_with": [],
-			    "children": [
-				{
-	    			    "required_prereqs": [],
-				    "course_title": "EML 4502C - Engineering Design II",
-				    "name": "EML 4502C",
-				    "credits": "(3)",
-				    "choice_prereqs": [],
-				    "professors": "",
-				    "credit_type": "ECS-MECH/AERO",
-				    "offered_with": [],
-				    "children": [],
-				    "description": "Continuation of the design process in the team building and testing of a prototype. A test plan and a test report are completed. "
-				}
-			    ],
-			    "description": "Application of the design process in the team solution of a state-of-the-art problem. Aerospace, mechanical, thermo-fluid, or material problems are considered."
-			},
-			{			
-	    		    "required_prereqs": [],
-			    "course_title": "EML 4804C - Digital Control in Mechatronics",
-			    "name": "EML 4804C",
-			    "credits": "(3)",
-			    "choice_prereqs": [],
-			    "professors": "",
-			    "credit_type": "ECS-MECH/AERO",
-			    "offered_with": [],
-			    "children": [],
-			    "description": "Discrete microprocessor control of mechatronics dynamic systems using state-space representation, digital controllers, design for mechatronic applications."
-			}
-		    ],
-		    "description": "Undamped and damped vibration analysis of mechanical systems with single and two degrees of freedom; forced vibration; concepts of feedback controls; classical proportional, derivative and integral (PID) feedback controls and root locus."
-		}],
-	    "description": "Computer aided modeling of mechanical and aerospace systems. Solution methods. Curve fitting. Numerical calculus and solution of differential equations with applications to mechanical and aerospace engineering."
-	},
-	{
-	    "required_prereqs": [],
-	    "course_title": "EML 3101 - Thermodynamics of Mechanical Systems",
-	    "name": "EML 3101",
-	    "credits": "(3)",
-	    "choice_prereqs": [],
-	    "professors": "",
-	    "credit_type": "ECS-MECH/AERO",
-	    "offered_with": [],
-	    "children": [
-		{
-	    	    "required_prereqs": [],
-		    "course_title": "EML 4411 - Mechanical Power Systems",
-		    "name": "EML 4411",
-		    "credits": "()",
-		    "choice_prereqs": [],
-		    "professors": "",
-		    "credit_type": "ECS-MECH/AERO",
-		    "offered_with": [],
-		    "children": [],
-		    "description": "Analysis and design of large power generating systems and components, with emphasis on steam plants utilizing both chemical and nuclear fuels."
-		}
-	    ],
-	    "description": "Applied thermodynamics, availability analysis, thermodynamics of reactive and nonreactive mixtures, thermodynamic relations of properties. Thermodynamic design analysis of complete mechanical systems."
-	},
-	{
-	    "required_prereqs": [],
-	    "course_title": "EML 3217 - Engineering Mechanics – Dynamics",
-	    "name": "EML 3217",
-	    "credits": "(3)",
-	    "choice_prereqs": [],
-	    "professors": "",
-	    "credit_type": "ECS-MECH/AERO",
-	    "offered_with": [],
-	    "children": [],
-	    "description": "Kinematics and kinetics of particles and rigid bodies; mass and acceleration, work and energy, impulse and momentum, introduction to kinematics of mechanisms; introduction to 3D rigid body dynamics; central force."
-	},
-	{
-	    "required_prereqs": [],
-	    "course_title": "EML 3262 - Kinematics of Mechanisms",
-	    "name": "EML 3262",
-	    "credits": "(3)",
-	    "choice_prereqs": [],
-	    "professors": "",
-	    "credit_type": "ECS-MECH/AERO",
-	    "offered_with": [],
-	    "children": [],
-	    "description": "Graphical, mathematical, and computer-aided kinematics, analysis, and synthesis of basic mechanisms."
-	},
-	{
-	    "required_prereqs": [],
-	    "course_title": "EML 3303C - Mechanical Engineering Measurements",
-	    "name": "EML 3303C",
-	    "credits": "(3)",
-	    "choice_prereqs": [],
-	    "professors": "",
-	    "credit_type": "ECS-MECH/AERO",
-	    "offered_with": [],
-	    "children": [
-		{
-	    	    "required_prereqs": [],
-		    "course_title": "EML 4301C - Mechanical Systems Lab",
-		    "name": "EML 4301C",
-		    "credits": "(3)",
-		    "choice_prereqs": [],
-		    "professors": "",
-		    "credit_type": "ECS-MECH/AERO",
-		    "offered_with": [],
-		    "children": [],
-		    "description": "Teaching laboratory in solid mechanics, dynamic vibrations and control-feedback testing and theory; designing and conducting experiments; analyzing and interpreting data."
-		},		    
-		{
-	    	    "required_prereqs": [],
-		    "course_title": "EML 4306C - Energy Systems Lab",
-		    "name": "EML 4306C",
-		    "credits": "(3)",
-		    "choice_prereqs": [],
-		    "professors": "",
-		    "credit_type": "ECS-MECH/AERO",
-		    "offered_with": [],
-		    "children": [],
-		    "description": "Design of experiments in Thermo-Fluid Systems with emphasis on project team activity."
-		},
-		{
-	    	    "required_prereqs": [],
-		    "course_title": "EML 4501C - Engineering Design I",
-		    "name": "EML 4501C",
-		    "credits": "(3)",
-		    "choice_prereqs": [],
-		    "professors": "",
-		    "credit_type": "ECS-MECH/AERO",
-		    "offered_with": [],
-		    "children": [
-			{
-	    		    "required_prereqs": [],
-			    "course_title": "EML 4502C - Engineering Design II",
-			    "name": "EML 4502C",
-			    "credits": "(3)",
-			    "choice_prereqs": [],
-			    "professors": "",
-			    "credit_type": "ECS-MECH/AERO",
-			    "offered_with": [],
-			    "children": [],
-			    "description": "Continuation of the design process in the team building and testing of a prototype. A test plan and a test report are completed. "
-			}
-		    ],
-		    "description": "Application of the design process in the team solution of a state-of-the-art problem. Aerospace, mechanical, thermo-fluid, or material problems are considered."
-		},
-		{
-	    	    "required_prereqs": [],
-		    "course_title": "EML 4804C - Digital Control in Mechatronics",
-		    "name": "EML 4804C",
-		    "credits": "(3)",
-		    "choice_prereqs": [],
-		    "professors": "",
-		    "credit_type": "ECS-MECH/AERO",
-		    "offered_with": [],
-		    "children": [],
-		    "description": "Discrete microprocessor control of mechatronics dynamic systems using state-space representation, digital controllers, design for mechatronic applications."
-		}
-	    ],
-	    "description": "Theory, calibration and use of instruments. Measurement techniques, data analysis, report writing. Laboratory topics related to mechanical engineering."
-	},
-	{
-	    "required_prereqs": [],
-	    "course_title": "EML 3500 - Design and Analysis of Machine Components",
-	    "name": "EML 3500",
-	    "credits": "(3)",
-	    "choice_prereqs": [],
-	    "professors": "",
-	    "credit_type": "ECS-MECH/AERO",
-	    "offered_with": [],
-	    "children": [
-		{
-	    	    "required_prereqs": [],
-		    "course_title": "EML 4504 - Design & Analysis of Machine Components II",
-		    "name": "EML 4504",
-		    "credits": "(3)",
-		    "choice_prereqs": [],
-		    "professors": "",
-		    "credit_type": "ECS-MECH/AERO",
-		    "offered_with": [],
-		    "children": [],
-		    "description": "Application of the principles of component analysis to the design of mechanisms."
-		}
-	    ],
-	    "description": "Application of the principles of mechanics of materials to the design of mechanical components."
-	},
-	{
-	    "required_prereqs": [],
-	    "course_title": "EML 3701 - Fluid Mechanics I",
-	    "name": "EML 3701",
-	    "credits": "(3)",
-	    "choice_prereqs": [],
-	    "professors": "",
-	    "credit_type": "ECS-MECH/AERO",
-	    "offered_with": [],
-	    "children": [
-		{
-	    	    "required_prereqs": [],
-		    "course_title": "EML 4142 - Heat Transfer",
-		    "name": "EML 4142",
-		    "credits": "(3)",
-		    "choice_prereqs": [],
-		    "professors": "",
-		    "credit_type": "ECS-MECH/AERO",
-		    "offered_with": [],
-		    "children": [
-			{
-	    		    "required_prereqs": [],
-			    "course_title": "EML 4143 - Heat Transfer II",
-			    "name": "EML 4143",
-			    "credits": "(3)",
-			    "choice_prereqs": [],
-			    "professors": "",
-			    "credit_type": "ECS-MECH/AERO",
-			    "offered_with": [],
-			    "children": [],
-			    "description": "Advanced topics in heat transfer, multi-dimensional conduction, transient conduction, convection heat transfer, participating medium, boiling and condensation."
-			},
-			{
-	    		    "required_prereqs": [],
-			    "course_title": "EML 4306C - Energy Systems Lab",
-			    "name": "EML 4306C",
-			    "credits": "(3)",
-			    "choice_prereqs": [],
-			    "professors": "",
-			    "credit_type": "ECS-MECH/AERO",
-			    "offered_with": [],
-			    "children": [],
-			    "description": "Design of experiments in Thermo-Fluid Systems with emphasis on project team activity."
-			},
-			{
-	    		    "required_prereqs": [],
-			    "course_title": "EML 4454 - Turbines for Sustainable Power",
-			    "name": "EML 4454",
-			    "credits": "(3)",
-			    "choice_prereqs": [],
-			    "professors": "",
-			    "credit_type": "ECS-MECH/AERO",
-			    "offered_with": [],
-			    "children": [],
-			    "description": "Multidisciplinary aspects of turbine design for sustainable power generation including aerodynamics to combustion and emissions to reliability; covers multiple applications of conventional and green technologies."
-			},
-			{
-	    		    "required_prereqs": [],
-			    "course_title": "EML 4501C - Engineering Design I",
-			    "name": "EML 4501C",
-			    "credits": "(3)",
-			    "choice_prereqs": [],
-			    "professors": "",
-			    "credit_type": "ECS-MECH/AERO",
-			    "offered_with": [],
-			    "children": [
-				{
-	    			    "required_prereqs": [],
-				    "course_title": "EML 4502C - Engineering Design II",
-				    "name": "EML 4502C",
-				    "credits": "(3)",
-				    "choice_prereqs": [],
-				    "professors": "",
-				    "credit_type": "ECS-MECH/AERO",
-				    "offered_with": [],
-				    "children": [],
-				    "description": "Continuation of the design process in the team building and testing of a prototype. A test plan and a test report are completed. "
-				}
-			    ],
-			    "description": "Application of the design process in the team solution of a state-of-the-art problem. Aerospace, mechanical, thermo-fluid, or material problems are considered."
-			},
-			{
-	    		    "required_prereqs": [],
-			    "course_title": "EML 4602 - Applied HVAC Engineering",
-			    "name": "EML 4602",
-			    "credits": "(3)",
-			    "choice_prereqs": [],
-			    "professors": "",
-			    "credit_type": "ECS-MECH/AERO",
-			    "offered_with": [],
-			    "children": [],
-			    "description": "Applications of HVAC systems design with the objective of optimizing energy efficiency, humidity control, ventilation, and indoor air quality. Dehumidification performance of the various HVAC system types and their interactions with the building."
-			}
-		    ],
-		    "description": "Conduction, radiation, and convection heat transfer. Basic energy balances emphasized. Steady state and transient problems, analysis and design of simple heat exchangers."
-		},
-		{
-	    	    "required_prereqs": [],
-		    "course_title": "EML 4454 - Turbines for Sustainable Power",
-		    "name": "EML 4454",
-		    "credits": "(3)",
-		    "choice_prereqs": [],
-		    "professors": "",
-		    "credit_type": "ECS-MECH/AERO",
-		    "offered_with": [],
-		    "children": [],
-		    "description": "Multidisciplinary aspects of turbine design for sustainable power generation including aerodynamics to combustion and emissions to reliability; covers multiple applications of conventional and green technologies."
-		},
-		{
-	    	    "required_prereqs": [],
-		    "course_title": "EML 4501C - Engineering Design I",
-		    "name": "EML 4501C",
-		    "credits": "(3)",
-		    "choice_prereqs": [],
-		    "professors": "",
-		    "credit_type": "ECS-MECH/AERO",
-		    "offered_with": [],
-		    "children": [
-			{
-	    		    "required_prereqs": [],
-			    "course_title": "EML 4502C - Engineering Design II",
-			    "name": "EML 4502C",
-			    "credits": "(3)",
-			    "choice_prereqs": [],
-			    "professors": "",
-			    "credit_type": "ECS-MECH/AERO",
-			    "offered_with": [],
-			    "children": [],
-			    "description": "Continuation of the design process in the team building and testing of a prototype. A test plan and a test report are completed. "
-			}
-		    ],
-		    "description": "Application of the design process in the team solution of a state-of-the-art problem. Aerospace, mechanical, thermo-fluid, or material problems are considered."
-		},
-		{
-	    	    "required_prereqs": [],
-		    "course_title": "EML 4703 - Fluid Mechanics II",
-		    "name": "EML 4703",
-		    "credits": "(3)",
-		    "choice_prereqs": [],
-		    "professors": "",
-		    "credit_type": "ECS-MECH/AERO",
-		    "offered_with": [],
-		    "children": [],
-		    "description": "Continuation of Fluid Mechanics I. External flows, fluid machinery, compressible flows, design projects."
-		}
-	    ],
-	    "description": "Principles of continuum fluid mechanics. Integral and differential forms of governing equations, fluid statics, dimensional analysis, measurements, internal flows."
-	},
-	{
-	    "required_prereqs": [],
-	    "course_title": "EML 3933 - Mechanical Career and Academic Faculty Advising I",
-	    "name": "EML 3933",
-	    "credits": "(0)",
-	    "choice_prereqs": [],
-	    "professors": "",
-	    "credit_type": "ECS-MECH/AERO",
-	    "offered_with": [],
-	    "children": [
-		{
-	    	    "required_prereqs": [],
-		    "course_title": "EML 3034C - Modeling Methods in Mechanical and Aerospace Engineering",
-		    "name": "EML 3034C",
-		    "credits": "(3)",
-		    "choice_prereqs": [],
-		    "professors": "",
-		    "credit_type": "ECS-MECH/AERO",
-		    "offered_with": [],
-		    "children": [
-			{
-	    		    "required_prereqs": [],
-			    "course_title": "EML 4142 - Heat Transfer",
-			    "name": "EML 4142",
-			    "credits": "(3)",
-			    "choice_prereqs": [],
-			    "professors": "",
-			    "credit_type": "ECS-MECH/AERO",
-			    "offered_with": [],
-			    "children": [
-				{
-	    			    "required_prereqs": [],
-				    "course_title": "EML 4143 - Heat Transfer II",
-				    "name": "EML 4143",
-				    "credits": "(3)",
-				    "choice_prereqs": [],
-				    "professors": "",
-				    "credit_type": "ECS-MECH/AERO",
-				    "offered_with": [],
-				    "children": [],
-				    "description": "Advanced topics in heat transfer, multi-dimensional conduction, transient conduction, convection heat transfer, participating medium, boiling and condensation."
-				},
-				{
-	    			    "required_prereqs": [],
-				    "course_title": "EML 4306C - Energy Systems Lab",
-				    "name": "EML 4306C",
-				    "credits": "(3)",
-				    "choice_prereqs": [],
-				    "professors": "",
-				    "credit_type": "ECS-MECH/AERO",
-				    "offered_with": [],
-				    "children": [],
-				    "description": "Design of experiments in Thermo-Fluid Systems with emphasis on project team activity."
-				},
-				{
-	    			    "required_prereqs": [],
-				    "course_title": "EML 4454 - Turbines for Sustainable Power",
-				    "name": "EML 4454",
-				    "credits": "(3)",
-				    "choice_prereqs": [],
-				    "professors": "",
-				    "credit_type": "ECS-MECH/AERO",
-				    "offered_with": [],
-				    "children": [],
-				    "description": "Multidisciplinary aspects of turbine design for sustainable power generation including aerodynamics to combustion and emissions to reliability; covers multiple applications of conventional and green technologies."
-				},
-				{
-	    			    "required_prereqs": [],
-				    "course_title": "EML 4501C - Engineering Design I",
-				    "name": "EML 4501C",
-				    "credits": "(3)",
-				    "choice_prereqs": [],
-				    "professors": "",
-				    "credit_type": "ECS-MECH/AERO",
-				    "offered_with": [],
-				    "children": [
-					{
-	    				    "required_prereqs": [],
-					    "course_title": "EML 4502C - Engineering Design II",
-					    "name": "EML 4502C",
-					    "credits": "(3)",
-					    "choice_prereqs": [],
-					    "professors": "",
-					    "credit_type": "ECS-MECH/AERO",
-					    "offered_with": [],
-					    "children": [],
-					    "description": "Continuation of the design process in the team building and testing of a prototype. A test plan and a test report are completed. "
-					}
-				    ],
-				    "description": "Application of the design process in the team solution of a state-of-the-art problem. Aerospace, mechanical, thermo-fluid, or material problems are considered."
-				},
-				{
-	    			    "required_prereqs": [],
-				    "course_title": "EML 4602 - Applied HVAC Engineering",
-				    "name": "EML 4602",
-				    "credits": "(3)",
-				    "choice_prereqs": [],
-				    "professors": "",
-				    "credit_type": "ECS-MECH/AERO",
-				    "offered_with": [],
-				    "children": [],
-				    "description": "Applications of HVAC systems design with the objective of optimizing energy efficiency, humidity control, ventilation, and indoor air quality. Dehumidification performance of the various HVAC system types and their interactions with the building."
-				}
-			    ],
-			    "description": "Conduction, radiation, and convection heat transfer. Basic energy balances emphasized. Steady state and transient problems, analysis and design of simple heat exchangers."
-			},
-			{
-	    		    "required_prereqs": [],
-			    "course_title": "EML 4225 - Introduction to Vibrations and Controls",
-			    "name": "EML 4225",
-			    "credits": "(3)",
-			    "choice_prereqs": [],
-			    "professors": "",
-			    "credit_type": "ECS-MECH/AERO",
-			    "offered_with": [],
-			    "children": [
-				{
-	    			    "required_prereqs": [],
-				    "course_title": "EML 4260 - Dynamics of Machinery",
-				    "name": "EML 4260",
-				    "credits": "(3)",
-				    "choice_prereqs": [],
-				    "professors": "",
-				    "credit_type": "ECS-MECH/AERO",
-				    "offered_with": [],
-				    "children": [],
-				    "description": "Critical speeds and response of flexible rotor systems, whirl, gyroscopic effects; balancing of rotating and reciprocating masses; cam dynamics."
-				},
-				{
-	    			    "required_prereqs": [],
-				    "course_title": "EML 4264 - Vehicle Dynamics",
-				    "name": "EML 4264",
-				    "credits": "(3)",
-				    "choice_prereqs": [],
-				    "professors": "",
-				    "credit_type": "ECS-MECH/AERO",
-				    "offered_with": [],
-				    "children": [],
-				    "description": "Basic mechanics governing vehicle dynamics, performance and handling; acceleration, braking, ride, cornering, suspension, steering, rollover. "
-				},
-				{			
-	    			    "required_prereqs": [],
-				    "course_title": "EML 4301C - Mechanical Systems Lab",
-				    "name": "EML 4301C",
-				    "credits": "(3)",
-				    "choice_prereqs": [],
-				    "professors": "",
-				    "credit_type": "ECS-MECH/AERO",
-				    "offered_with": [],
-				    "children": [],
-				    "description": "Teaching laboratory in solid mechanics, dynamic vibrations and control-feedback testing and theory; designing and conducting experiments; analyzing and interpreting data."
-				},
-				{
-	    			    "required_prereqs": [],
-				    "course_title": "EML 4313 - Intermediate System Dynamics and Controls",
-				    "name": "EML 4313",
-				    "credits": "(3)",
-				    "choice_prereqs": [],
-				    "professors": "",
-				    "credit_type": "ECS-MECH/AERO",
-				    "offered_with": [],
-				    "children": [
-					{
-	    				    "required_prereqs": [],
-					    "course_title": "EML 4804C - Digital Control in Mechatronics",
-					    "name": "EML 4804C",
-					    "credits": "(3)",
-					    "choice_prereqs": [],
-					    "professors": "",
-					    "credit_type": "ECS-MECH/AERO",
-					    "offered_with": [],
-					    "children": [],
-					    "description": "Discrete microprocessor control of mechatronics dynamic systems using state-space representation, digital controllers, design for mechatronic applications."
-					}
-				    ],
-				    "description": "Free and forced vibration analysis of mechanical systems with multi degrees of freedom; normal modes and modal analysis; systems concepts, stability criteria, role of uncertainty in feedback and frequency domain control design."
-				},		    
-				{
-	    			    "required_prereqs": [],
-				    "course_title": "EML 4501C - Engineering Design I",
-				    "name": "EML 4501C",
-				    "credits": "(3)",
-				    "choice_prereqs": [],
-				    "professors": "",
-				    "credit_type": "ECS-MECH/AERO",
-				    "offered_with": [],
-				    "children": [
-					{
-	    				    "required_prereqs": [],
-					    "course_title": "EML 4502C - Engineering Design II",
-					    "name": "EML 4502C",
-					    "credits": "(3)",
-					    "choice_prereqs": [],
-					    "professors": "",
-					    "credit_type": "ECS-MECH/AERO",
-					    "offered_with": [],
-					    "children": [],
-					    "description": "Continuation of the design process in the team building and testing of a prototype. A test plan and a test report are completed. "
-					}
-				    ],
-				    "description": "Application of the design process in the team solution of a state-of-the-art problem. Aerospace, mechanical, thermo-fluid, or material problems are considered."
-				},
-				{			
-	    			    "required_prereqs": [],
-				    "course_title": "EML 4804C - Digital Control in Mechatronics",
-				    "name": "EML 4804C",
-				    "credits": "(3)",
-				    "choice_prereqs": [],
-				    "professors": "",
-				    "credit_type": "ECS-MECH/AERO",
-				    "offered_with": [],
-				    "children": [],
-				    "description": "Discrete microprocessor control of mechatronics dynamic systems using state-space representation, digital controllers, design for mechatronic applications."
-				}
-			    ],
-			    "description": "Undamped and damped vibration analysis of mechanical systems with single and two degrees of freedom; forced vibration; concepts of feedback controls; classical proportional, derivative and integral (PID) feedback controls and root locus."
-			}
-		    ],
-		    "description": "Computer aided modeling of mechanical and aerospace systems. Solution methods. Curve fitting. Numerical calculus and solution of differential equations with applications to mechanical and aerospace engineering."
-		},
-		{
-	    	    "required_prereqs": [],
-		    "course_title": "EML 4931 - Mechanical Career and Academic Faculty Advising II",
-		    "name": "EML 4931",
-		    "credits": "(0)",
-		    "choice_prereqs": [],
-		    "professors": "",
-		    "credit_type": "ECS-MECH/AERO",
-		    "offered_with": [],
-		    "children": [
-			{
-	    		    "required_prereqs": [],
-			    "course_title": "EML 4502C - Engineering Design II",
-			    "name": "EML 4502C",
-			    "credits": "(3)",
-			    "choice_prereqs": [],
-			    "professors": "",
-			    "credit_type": "ECS-MECH/AERO",
-			    "offered_with": [],
-			    "children": [],
-			    "description": "Continuation of the design process in the team building and testing of a prototype. A test plan and a test report are completed. "
-			}
-		    ],
-		    "description": "Mandatory meeting with students and their faculty advisor for career/academic advising."
-		}],
-	    "description": "Mandatory meeting with students and their faculty advisor for career/academic advising."
-	},
-	{
-	    "required_prereqs": [],
-	    "course_title": "EML 4024C - Engineering Design Practice",
-	    "name": "EML 4024C",
-	    "credits": "(3)",
-	    "choice_prereqs": [],
-	    "professors": "",
-	    "credit_type": "ECS-MECH/AERO",
-	    "offered_with": [],
-	    "children": [],
-	    "description": "A project oriented computer aided engineering design practice including design, simulation, analysis, and manufacturing."
-	},
-	{
-	    "required_prereqs": [],
-	    "course_title": "EML 4142 - Heat Transfer",
-	    "name": "EML 4142",
-	    "credits": "(3)",
-	    "choice_prereqs": [],
-	    "professors": "",
-	    "credit_type": "ECS-MECH/AERO",
-	    "offered_with": [],
-	    "children": [
-		{
-	    	    "required_prereqs": [],
-		    "course_title": "EML 4143 - Heat Transfer II",
-		    "name": "EML 4143",
-		    "credits": "(3)",
-		    "choice_prereqs": [],
-		    "professors": "",
-		    "credit_type": "ECS-MECH/AERO",
-		    "offered_with": [],
-		    "children": [],
-		    "description": "Advanced topics in heat transfer, multi-dimensional conduction, transient conduction, convection heat transfer, participating medium, boiling and condensation."
-		},
-		{
-	    	    "required_prereqs": [],
-		    "course_title": "EML 4306C - Energy Systems Lab",
-		    "name": "EML 4306C",
-		    "credits": "(3)",
-		    "choice_prereqs": [],
-		    "professors": "",
-		    "credit_type": "ECS-MECH/AERO",
-		    "offered_with": [],
-		    "children": [],
-		    "description": "Design of experiments in Thermo-Fluid Systems with emphasis on project team activity."
-		},
-		{
-	    	    "required_prereqs": [],
-		    "course_title": "EML 4454 - Turbines for Sustainable Power",
-		    "name": "EML 4454",
-		    "credits": "(3)",
-		    "choice_prereqs": [],
+	    {
+		"required_prereqs": [],
+		"course_title": "EML 3034C - Modeling Methods in Mechanical and Aerospace Engineering",
+		"name": "EML 3034C",
+		"credits": "(3)",
+		"choice_prereqs": [],
+		"professors": "",
+		"credit_type": "ECS-MECH/AERO",
+		"offered_with": [],
+		"children": [
+		    {
+	    		"required_prereqs": [],
+			"course_title": "EML 4142 - Heat Transfer",
+			"name": "EML 4142",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-MECH/AERO",
+			"offered_with": [],
+			"children": [
+			    {
+	    			"required_prereqs": [],
+				"course_title": "EML 4143 - Heat Transfer II",
+				"name": "EML 4143",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "ECS-MECH/AERO",
+				"offered_with": [],
+				"children": [],
+				"description": "Advanced topics in heat transfer, multi-dimensional conduction, transient conduction, convection heat transfer, participating medium, boiling and condensation."
+			    },
+			    {
+	    			"required_prereqs": [],
+				"course_title": "EML 4306C - Energy Systems Lab",
+				"name": "EML 4306C",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "ECS-MECH/AERO",
+				"offered_with": [],
+				"children": [],
+				"description": "Design of experiments in Thermo-Fluid Systems with emphasis on project team activity."
+			    },
+			    {
+	    			"required_prereqs": [],
+				"course_title": "EML 4454 - Turbines for Sustainable Power",
+				"name": "EML 4454",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "ECS-MECH/AERO",
+				"offered_with": [],
+				"children": [],
+				"description": "Multidisciplinary aspects of turbine design for sustainable power generation including aerodynamics to combustion and emissions to reliability; covers multiple applications of conventional and green technologies."
+			    },
+			    {
+	    			"required_prereqs": [],
+				"course_title": "EML 4501C - Engineering Design I",
+				"name": "EML 4501C",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "ECS-MECH/AERO",
+				"offered_with": [],
+				"children": [
+				    {
+	    				"required_prereqs": [],
+					"course_title": "EML 4502C - Engineering Design II",
+					"name": "EML 4502C",
+					"credits": "(3)",
+					"choice_prereqs": [],
+					"professors": "",
+					"credit_type": "ECS-MECH/AERO",
+					"offered_with": [],
+					"children": [],
+					"description": "Continuation of the design process in the team building and testing of a prototype. A test plan and a test report are completed. "
+				    }
+				],
+				"description": "Application of the design process in the team solution of a state-of-the-art problem. Aerospace, mechanical, thermo-fluid, or material problems are considered."
+			    },
+			    {
+	    			"required_prereqs": [],
+				"course_title": "EML 4602 - Applied HVAC Engineering",
+				"name": "EML 4602",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "ECS-MECH/AERO",
+				"offered_with": [],
+				"children": [],
+				"description": "Applications of HVAC systems design with the objective of optimizing energy efficiency, humidity control, ventilation, and indoor air quality. Dehumidification performance of the various HVAC system types and their interactions with the building."
+			    }
+			],
+			"description": "Conduction, radiation, and convection heat transfer. Basic energy balances emphasized. Steady state and transient problems, analysis and design of simple heat exchangers."
+		    },
+		    {
+	    		"required_prereqs": [],
+			"course_title": "EML 4225 - Introduction to Vibrations and Controls",
+			"name": "EML 4225",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-MECH/AERO",
+			"offered_with": [],
+			"children": [
+			    {
+	    			"required_prereqs": [],
+				"course_title": "EML 4260 - Dynamics of Machinery",
+				"name": "EML 4260",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "ECS-MECH/AERO",
+				"offered_with": [],
+				"children": [],
+				"description": "Critical speeds and response of flexible rotor systems, whirl, gyroscopic effects; balancing of rotating and reciprocating masses; cam dynamics."
+			    },
+			    {
+	    			"required_prereqs": [],
+				"course_title": "EML 4264 - Vehicle Dynamics",
+				"name": "EML 4264",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "ECS-MECH/AERO",
+				"offered_with": [],
+				"children": [],
+				"description": "Basic mechanics governing vehicle dynamics, performance and handling; acceleration, braking, ride, cornering, suspension, steering, rollover. "
+			    },
+			    {			
+	    			"required_prereqs": [],
+				"course_title": "EML 4301C - Mechanical Systems Lab",
+				"name": "EML 4301C",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "ECS-MECH/AERO",
+				"offered_with": [],
+				"children": [],
+				"description": "Teaching laboratory in solid mechanics, dynamic vibrations and control-feedback testing and theory; designing and conducting experiments; analyzing and interpreting data."
+			    },
+			    {
+	    			"required_prereqs": [],
+				"course_title": "EML 4313 - Intermediate System Dynamics and Controls",
+				"name": "EML 4313",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "ECS-MECH/AERO",
+				"offered_with": [],
+				"children": [
+				    {
+	    				"required_prereqs": [],
+					"course_title": "EML 4804C - Digital Control in Mechatronics",
+					"name": "EML 4804C",
+					"credits": "(3)",
+					"choice_prereqs": [],
+					"professors": "",
+					"credit_type": "ECS-MECH/AERO",
+					"offered_with": [],
+					"children": [],
+					"description": "Discrete microprocessor control of mechatronics dynamic systems using state-space representation, digital controllers, design for mechatronic applications."
+				    }
+				],
+				"description": "Free and forced vibration analysis of mechanical systems with multi degrees of freedom; normal modes and modal analysis; systems concepts, stability criteria, role of uncertainty in feedback and frequency domain control design."
+			    },		    
+			    {
+	    			"required_prereqs": [],
+				"course_title": "EML 4501C - Engineering Design I",
+				"name": "EML 4501C",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "ECS-MECH/AERO",
+				"offered_with": [],
+				"children": [
+				    {
+	    				"required_prereqs": [],
+					"course_title": "EML 4502C - Engineering Design II",
+					"name": "EML 4502C",
+					"credits": "(3)",
+					"choice_prereqs": [],
+					"professors": "",
+					"credit_type": "ECS-MECH/AERO",
+					"offered_with": [],
+					"children": [],
+					"description": "Continuation of the design process in the team building and testing of a prototype. A test plan and a test report are completed. "
+				    }
+				],
+				"description": "Application of the design process in the team solution of a state-of-the-art problem. Aerospace, mechanical, thermo-fluid, or material problems are considered."
+			    },
+			    {			
+	    			"required_prereqs": [],
+				"course_title": "EML 4804C - Digital Control in Mechatronics",
+				"name": "EML 4804C",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "ECS-MECH/AERO",
+				"offered_with": [],
+				"children": [],
+				"description": "Discrete microprocessor control of mechatronics dynamic systems using state-space representation, digital controllers, design for mechatronic applications."
+			    }
+			],
+			"description": "Undamped and damped vibration analysis of mechanical systems with single and two degrees of freedom; forced vibration; concepts of feedback controls; classical proportional, derivative and integral (PID) feedback controls and root locus."
+		    }],
+		"description": "Computer aided modeling of mechanical and aerospace systems. Solution methods. Curve fitting. Numerical calculus and solution of differential equations with applications to mechanical and aerospace engineering."
+	    },
+	    {
+		"required_prereqs": [],
+		"course_title": "EML 3101 - Thermodynamics of Mechanical Systems",
+		"name": "EML 3101",
+		"credits": "(3)",
+		"choice_prereqs": [],
+		"professors": "",
+		"credit_type": "ECS-MECH/AERO",
+		"offered_with": [],
+		"children": [
+		    {
+	    		"required_prereqs": [],
+			"course_title": "EML 4411 - Mechanical Power Systems",
+			"name": "EML 4411",
+			"credits": "()",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-MECH/AERO",
+			"offered_with": [],
+			"children": [],
+			"description": "Analysis and design of large power generating systems and components, with emphasis on steam plants utilizing both chemical and nuclear fuels."
+		    }
+		],
+		"description": "Applied thermodynamics, availability analysis, thermodynamics of reactive and nonreactive mixtures, thermodynamic relations of properties. Thermodynamic design analysis of complete mechanical systems."
+	    },
+	    {
+		"required_prereqs": [],
+		"course_title": "EML 3217 - Engineering Mechanics – Dynamics",
+		"name": "EML 3217",
+		"credits": "(3)",
+		"choice_prereqs": [],
+		"professors": "",
+		"credit_type": "ECS-MECH/AERO",
+		"offered_with": [],
+		"children": [],
+		"description": "Kinematics and kinetics of particles and rigid bodies; mass and acceleration, work and energy, impulse and momentum, introduction to kinematics of mechanisms; introduction to 3D rigid body dynamics; central force."
+	    },
+	    {
+		"required_prereqs": [],
+		"course_title": "EML 3262 - Kinematics of Mechanisms",
+		"name": "EML 3262",
+		"credits": "(3)",
+		"choice_prereqs": [],
+		"professors": "",
+		"credit_type": "ECS-MECH/AERO",
+		"offered_with": [],
+		"children": [],
+		"description": "Graphical, mathematical, and computer-aided kinematics, analysis, and synthesis of basic mechanisms."
+	    },
+	    {
+		"required_prereqs": [],
+		"course_title": "EML 3303C - Mechanical Engineering Measurements",
+		"name": "EML 3303C",
+		"credits": "(3)",
+		"choice_prereqs": [],
+		"professors": "",
+		"credit_type": "ECS-MECH/AERO",
+		"offered_with": [],
+		"children": [
+		    {
+	    		"required_prereqs": [],
+			"course_title": "EML 4301C - Mechanical Systems Lab",
+			"name": "EML 4301C",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-MECH/AERO",
+			"offered_with": [],
+			"children": [],
+			"description": "Teaching laboratory in solid mechanics, dynamic vibrations and control-feedback testing and theory; designing and conducting experiments; analyzing and interpreting data."
+		    },		    
+		    {
+	    		"required_prereqs": [],
+			"course_title": "EML 4306C - Energy Systems Lab",
+			"name": "EML 4306C",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-MECH/AERO",
+			"offered_with": [],
+			"children": [],
+			"description": "Design of experiments in Thermo-Fluid Systems with emphasis on project team activity."
+		    },
+		    {
+	    		"required_prereqs": [],
+			"course_title": "EML 4501C - Engineering Design I",
+			"name": "EML 4501C",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-MECH/AERO",
+			"offered_with": [],
+			"children": [
+			    {
+	    			"required_prereqs": [],
+				"course_title": "EML 4502C - Engineering Design II",
+				"name": "EML 4502C",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "ECS-MECH/AERO",
+				"offered_with": [],
+				"children": [],
+				"description": "Continuation of the design process in the team building and testing of a prototype. A test plan and a test report are completed. "
+			    }
+			],
+			"description": "Application of the design process in the team solution of a state-of-the-art problem. Aerospace, mechanical, thermo-fluid, or material problems are considered."
+		    },
+		    {
+	    		"required_prereqs": [],
+			"course_title": "EML 4804C - Digital Control in Mechatronics",
+			"name": "EML 4804C",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-MECH/AERO",
+			"offered_with": [],
+			"children": [],
+			"description": "Discrete microprocessor control of mechatronics dynamic systems using state-space representation, digital controllers, design for mechatronic applications."
+		    }
+		],
+		"description": "Theory, calibration and use of instruments. Measurement techniques, data analysis, report writing. Laboratory topics related to mechanical engineering."
+	    },
+	    {
+		"required_prereqs": [],
+		"course_title": "EML 3500 - Design and Analysis of Machine Components",
+		"name": "EML 3500",
+		"credits": "(3)",
+		"choice_prereqs": [],
+		"professors": "",
+		"credit_type": "ECS-MECH/AERO",
+		"offered_with": [],
+		"children": [
+		    {
+	    		"required_prereqs": [],
+			"course_title": "EML 4504 - Design & Analysis of Machine Components II",
+			"name": "EML 4504",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-MECH/AERO",
+			"offered_with": [],
+			"children": [],
+			"description": "Application of the principles of component analysis to the design of mechanisms."
+		    }
+		],
+		"description": "Application of the principles of mechanics of materials to the design of mechanical components."
+	    },
+	    {
+		"required_prereqs": [],
+		"course_title": "EML 3701 - Fluid Mechanics I",
+		"name": "EML 3701",
+		"credits": "(3)",
+		"choice_prereqs": [],
+		"professors": "",
+		"credit_type": "ECS-MECH/AERO",
+		"offered_with": [],
+		"children": [
+		    {
+	    		"required_prereqs": [],
+			"course_title": "EML 4142 - Heat Transfer",
+			"name": "EML 4142",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-MECH/AERO",
+			"offered_with": [],
+			"children": [
+			    {
+	    			"required_prereqs": [],
+				"course_title": "EML 4143 - Heat Transfer II",
+				"name": "EML 4143",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "ECS-MECH/AERO",
+				"offered_with": [],
+				"children": [],
+				"description": "Advanced topics in heat transfer, multi-dimensional conduction, transient conduction, convection heat transfer, participating medium, boiling and condensation."
+			    },
+			    {
+	    			"required_prereqs": [],
+				"course_title": "EML 4306C - Energy Systems Lab",
+				"name": "EML 4306C",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "ECS-MECH/AERO",
+				"offered_with": [],
+				"children": [],
+				"description": "Design of experiments in Thermo-Fluid Systems with emphasis on project team activity."
+			    },
+			    {
+	    			"required_prereqs": [],
+				"course_title": "EML 4454 - Turbines for Sustainable Power",
+				"name": "EML 4454",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "ECS-MECH/AERO",
+				"offered_with": [],
+				"children": [],
+				"description": "Multidisciplinary aspects of turbine design for sustainable power generation including aerodynamics to combustion and emissions to reliability; covers multiple applications of conventional and green technologies."
+			    },
+			    {
+	    			"required_prereqs": [],
+				"course_title": "EML 4501C - Engineering Design I",
+				"name": "EML 4501C",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "ECS-MECH/AERO",
+				"offered_with": [],
+				"children": [
+				    {
+	    				"required_prereqs": [],
+					"course_title": "EML 4502C - Engineering Design II",
+					"name": "EML 4502C",
+					"credits": "(3)",
+					"choice_prereqs": [],
+					"professors": "",
+					"credit_type": "ECS-MECH/AERO",
+					"offered_with": [],
+					"children": [],
+					"description": "Continuation of the design process in the team building and testing of a prototype. A test plan and a test report are completed. "
+				    }
+				],
+				"description": "Application of the design process in the team solution of a state-of-the-art problem. Aerospace, mechanical, thermo-fluid, or material problems are considered."
+			    },
+			    {
+	    			"required_prereqs": [],
+				"course_title": "EML 4602 - Applied HVAC Engineering",
+				"name": "EML 4602",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "ECS-MECH/AERO",
+				"offered_with": [],
+				"children": [],
+				"description": "Applications of HVAC systems design with the objective of optimizing energy efficiency, humidity control, ventilation, and indoor air quality. Dehumidification performance of the various HVAC system types and their interactions with the building."
+			    }
+			],
+			"description": "Conduction, radiation, and convection heat transfer. Basic energy balances emphasized. Steady state and transient problems, analysis and design of simple heat exchangers."
+		    },
+		    {
+	    		"required_prereqs": [],
+			"course_title": "EML 4454 - Turbines for Sustainable Power",
+			"name": "EML 4454",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-MECH/AERO",
+			"offered_with": [],
+			"children": [],
+			"description": "Multidisciplinary aspects of turbine design for sustainable power generation including aerodynamics to combustion and emissions to reliability; covers multiple applications of conventional and green technologies."
+		    },
+		    {
+	    		"required_prereqs": [],
+			"course_title": "EML 4501C - Engineering Design I",
+			"name": "EML 4501C",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-MECH/AERO",
+			"offered_with": [],
+			"children": [
+			    {
+	    			"required_prereqs": [],
+				"course_title": "EML 4502C - Engineering Design II",
+				"name": "EML 4502C",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "ECS-MECH/AERO",
+				"offered_with": [],
+				"children": [],
+				"description": "Continuation of the design process in the team building and testing of a prototype. A test plan and a test report are completed. "
+			    }
+			],
+			"description": "Application of the design process in the team solution of a state-of-the-art problem. Aerospace, mechanical, thermo-fluid, or material problems are considered."
+		    },
+		    {
+	    		"required_prereqs": [],
+			"course_title": "EML 4703 - Fluid Mechanics II",
+			"name": "EML 4703",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-MECH/AERO",
+			"offered_with": [],
+			"children": [],
+			"description": "Continuation of Fluid Mechanics I. External flows, fluid machinery, compressible flows, design projects."
+		    }
+		],
+		"description": "Principles of continuum fluid mechanics. Integral and differential forms of governing equations, fluid statics, dimensional analysis, measurements, internal flows."
+	    },
+	    {
+		"required_prereqs": [],
+		"course_title": "EML 3933 - Mechanical Career and Academic Faculty Advising I",
+		"name": "EML 3933",
+		"credits": "(0)",
+		"choice_prereqs": [],
+		"professors": "",
+		"credit_type": "ECS-MECH/AERO",
+		"offered_with": [],
+		"children": [
+		    {
+	    		"required_prereqs": [],
+			"course_title": "EML 3034C - Modeling Methods in Mechanical and Aerospace Engineering",
+			"name": "EML 3034C",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-MECH/AERO",
+			"offered_with": [],
+			"children": [
+			    {
+	    			"required_prereqs": [],
+				"course_title": "EML 4142 - Heat Transfer",
+				"name": "EML 4142",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "ECS-MECH/AERO",
+				"offered_with": [],
+				"children": [
+				    {
+	    				"required_prereqs": [],
+					"course_title": "EML 4143 - Heat Transfer II",
+					"name": "EML 4143",
+					"credits": "(3)",
+					"choice_prereqs": [],
+					"professors": "",
+					"credit_type": "ECS-MECH/AERO",
+					"offered_with": [],
+					"children": [],
+					"description": "Advanced topics in heat transfer, multi-dimensional conduction, transient conduction, convection heat transfer, participating medium, boiling and condensation."
+				    },
+				    {
+	    				"required_prereqs": [],
+					"course_title": "EML 4306C - Energy Systems Lab",
+					"name": "EML 4306C",
+					"credits": "(3)",
+					"choice_prereqs": [],
+					"professors": "",
+					"credit_type": "ECS-MECH/AERO",
+					"offered_with": [],
+					"children": [],
+					"description": "Design of experiments in Thermo-Fluid Systems with emphasis on project team activity."
+				    },
+				    {
+	    				"required_prereqs": [],
+					"course_title": "EML 4454 - Turbines for Sustainable Power",
+					"name": "EML 4454",
+					"credits": "(3)",
+					"choice_prereqs": [],
+					"professors": "",
+					"credit_type": "ECS-MECH/AERO",
+					"offered_with": [],
+					"children": [],
+					"description": "Multidisciplinary aspects of turbine design for sustainable power generation including aerodynamics to combustion and emissions to reliability; covers multiple applications of conventional and green technologies."
+				    },
+				    {
+	    				"required_prereqs": [],
+					"course_title": "EML 4501C - Engineering Design I",
+					"name": "EML 4501C",
+					"credits": "(3)",
+					"choice_prereqs": [],
+					"professors": "",
+					"credit_type": "ECS-MECH/AERO",
+					"offered_with": [],
+					"children": [
+					    {
+	    					"required_prereqs": [],
+						"course_title": "EML 4502C - Engineering Design II",
+						"name": "EML 4502C",
+						"credits": "(3)",
+						"choice_prereqs": [],
+						"professors": "",
+						"credit_type": "ECS-MECH/AERO",
+						"offered_with": [],
+						"children": [],
+						"description": "Continuation of the design process in the team building and testing of a prototype. A test plan and a test report are completed. "
+					    }
+					],
+					"description": "Application of the design process in the team solution of a state-of-the-art problem. Aerospace, mechanical, thermo-fluid, or material problems are considered."
+				    },
+				    {
+	    				"required_prereqs": [],
+					"course_title": "EML 4602 - Applied HVAC Engineering",
+					"name": "EML 4602",
+					"credits": "(3)",
+					"choice_prereqs": [],
+					"professors": "",
+					"credit_type": "ECS-MECH/AERO",
+					"offered_with": [],
+					"children": [],
+					"description": "Applications of HVAC systems design with the objective of optimizing energy efficiency, humidity control, ventilation, and indoor air quality. Dehumidification performance of the various HVAC system types and their interactions with the building."
+				    }
+				],
+				"description": "Conduction, radiation, and convection heat transfer. Basic energy balances emphasized. Steady state and transient problems, analysis and design of simple heat exchangers."
+			    },
+			    {
+	    			"required_prereqs": [],
+				"course_title": "EML 4225 - Introduction to Vibrations and Controls",
+				"name": "EML 4225",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "ECS-MECH/AERO",
+				"offered_with": [],
+				"children": [
+				    {
+	    				"required_prereqs": [],
+					"course_title": "EML 4260 - Dynamics of Machinery",
+					"name": "EML 4260",
+					"credits": "(3)",
+					"choice_prereqs": [],
+					"professors": "",
+					"credit_type": "ECS-MECH/AERO",
+					"offered_with": [],
+					"children": [],
+					"description": "Critical speeds and response of flexible rotor systems, whirl, gyroscopic effects; balancing of rotating and reciprocating masses; cam dynamics."
+				    },
+				    {
+	    				"required_prereqs": [],
+					"course_title": "EML 4264 - Vehicle Dynamics",
+					"name": "EML 4264",
+					"credits": "(3)",
+					"choice_prereqs": [],
+					"professors": "",
+					"credit_type": "ECS-MECH/AERO",
+					"offered_with": [],
+					"children": [],
+					"description": "Basic mechanics governing vehicle dynamics, performance and handling; acceleration, braking, ride, cornering, suspension, steering, rollover. "
+				    },
+				    {			
+	    				"required_prereqs": [],
+					"course_title": "EML 4301C - Mechanical Systems Lab",
+					"name": "EML 4301C",
+					"credits": "(3)",
+					"choice_prereqs": [],
+					"professors": "",
+					"credit_type": "ECS-MECH/AERO",
+					"offered_with": [],
+					"children": [],
+					"description": "Teaching laboratory in solid mechanics, dynamic vibrations and control-feedback testing and theory; designing and conducting experiments; analyzing and interpreting data."
+				    },
+				    {
+	    				"required_prereqs": [],
+					"course_title": "EML 4313 - Intermediate System Dynamics and Controls",
+					"name": "EML 4313",
+					"credits": "(3)",
+					"choice_prereqs": [],
+					"professors": "",
+					"credit_type": "ECS-MECH/AERO",
+					"offered_with": [],
+					"children": [
+					    {
+	    					"required_prereqs": [],
+						"course_title": "EML 4804C - Digital Control in Mechatronics",
+						"name": "EML 4804C",
+						"credits": "(3)",
+						"choice_prereqs": [],
+						"professors": "",
+						"credit_type": "ECS-MECH/AERO",
+						"offered_with": [],
+						"children": [],
+						"description": "Discrete microprocessor control of mechatronics dynamic systems using state-space representation, digital controllers, design for mechatronic applications."
+					    }
+					],
+					"description": "Free and forced vibration analysis of mechanical systems with multi degrees of freedom; normal modes and modal analysis; systems concepts, stability criteria, role of uncertainty in feedback and frequency domain control design."
+				    },		    
+				    {
+	    				"required_prereqs": [],
+					"course_title": "EML 4501C - Engineering Design I",
+					"name": "EML 4501C",
+					"credits": "(3)",
+					"choice_prereqs": [],
+					"professors": "",
+					"credit_type": "ECS-MECH/AERO",
+					"offered_with": [],
+					"children": [
+					    {
+	    					"required_prereqs": [],
+						"course_title": "EML 4502C - Engineering Design II",
+						"name": "EML 4502C",
+						"credits": "(3)",
+						"choice_prereqs": [],
+						"professors": "",
+						"credit_type": "ECS-MECH/AERO",
+						"offered_with": [],
+						"children": [],
+						"description": "Continuation of the design process in the team building and testing of a prototype. A test plan and a test report are completed. "
+					    }
+					],
+					"description": "Application of the design process in the team solution of a state-of-the-art problem. Aerospace, mechanical, thermo-fluid, or material problems are considered."
+				    },
+				    {			
+	    				"required_prereqs": [],
+					"course_title": "EML 4804C - Digital Control in Mechatronics",
+					"name": "EML 4804C",
+					"credits": "(3)",
+					"choice_prereqs": [],
+					"professors": "",
+					"credit_type": "ECS-MECH/AERO",
+					"offered_with": [],
+					"children": [],
+					"description": "Discrete microprocessor control of mechatronics dynamic systems using state-space representation, digital controllers, design for mechatronic applications."
+				    }
+				],
+				"description": "Undamped and damped vibration analysis of mechanical systems with single and two degrees of freedom; forced vibration; concepts of feedback controls; classical proportional, derivative and integral (PID) feedback controls and root locus."
+			    }
+			],
+			"description": "Computer aided modeling of mechanical and aerospace systems. Solution methods. Curve fitting. Numerical calculus and solution of differential equations with applications to mechanical and aerospace engineering."
+		    },
+		    {
+	    		"required_prereqs": [],
+			"course_title": "EML 4931 - Mechanical Career and Academic Faculty Advising II",
+			"name": "EML 4931",
+			"credits": "(0)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-MECH/AERO",
+			"offered_with": [],
+			"children": [
+			    {
+	    			"required_prereqs": [],
+				"course_title": "EML 4502C - Engineering Design II",
+				"name": "EML 4502C",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "ECS-MECH/AERO",
+				"offered_with": [],
+				"children": [],
+				"description": "Continuation of the design process in the team building and testing of a prototype. A test plan and a test report are completed. "
+			    }
+			],
+			"description": "Mandatory meeting with students and their faculty advisor for career/academic advising."
+		    }],
+		"description": "Mandatory meeting with students and their faculty advisor for career/academic advising."
+	    },
+	    {
+		"required_prereqs": [],
+		"course_title": "EML 4024C - Engineering Design Practice",
+		"name": "EML 4024C",
+		"credits": "(3)",
+		"choice_prereqs": [],
+		"professors": "",
+		"credit_type": "ECS-MECH/AERO",
+		"offered_with": [],
+		"children": [],
+		"description": "A project oriented computer aided engineering design practice including design, simulation, analysis, and manufacturing."
+	    },
+	    {
+		"required_prereqs": [],
+		"course_title": "EML 4142 - Heat Transfer",
+		"name": "EML 4142",
+		"credits": "(3)",
+		"choice_prereqs": [],
+		"professors": "",
+		"credit_type": "ECS-MECH/AERO",
+		"offered_with": [],
+		"children": [
+		    {
+	    		"required_prereqs": [],
+			"course_title": "EML 4143 - Heat Transfer II",
+			"name": "EML 4143",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-MECH/AERO",
+			"offered_with": [],
+			"children": [],
+			"description": "Advanced topics in heat transfer, multi-dimensional conduction, transient conduction, convection heat transfer, participating medium, boiling and condensation."
+		    },
+		    {
+	    		"required_prereqs": [],
+			"course_title": "EML 4306C - Energy Systems Lab",
+			"name": "EML 4306C",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-MECH/AERO",
+			"offered_with": [],
+			"children": [],
+			"description": "Design of experiments in Thermo-Fluid Systems with emphasis on project team activity."
+		    },
+		    {
+	    		"required_prereqs": [],
+			"course_title": "EML 4454 - Turbines for Sustainable Power",
+			"name": "EML 4454",
+			"credits": "(3)",
+			"choice_prereqs": [],
 			"professors": "",
 			"credit_type": "ECS-MECH/AERO",
 			"offered_with": [],
@@ -3717,7 +3717,20 @@
 		"professors": "",
 		"credit_type": "ECS-MSE",
 		"offered_with": [],
-		"children": [],
+		"children": [
+		    {
+	    		"required_prereqs": [],
+			"course_title": "EMA 4503 - Materials Characterization Techniques",
+			"name": "EMA 4503",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-MSE",
+			"offered_with": [],
+			"children": [],
+			"description": "Theory and practice of commonly used techniques for characterization of crystal structure, microstructure and chemistry."
+		    }
+		],
 		"description": "Materials characterization (optical and scanning electron microscopy, x-ray diffraction), heat treatment, mechanical testing (hardness, tensile, impact, etc.)."
 	    },
 	    {
@@ -3753,7 +3766,104 @@
 		"professors": "",
 		"credit_type": "ECS-MECH/AERO",
 		"offered_with": [],
-		"children": [],
+		"children": [
+		    {
+	    		"required_prereqs": [],
+			"course_title": "EMA 3000 - Engineering Polymeric, Ceramic, and Composite Materials",
+			"name": "EMA 3000",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-MSE",
+			"offered_with": [],
+			"children": [],
+			"description": "Structure, properties, processing of engineering polymeric, ceramic, and composite materials."
+		    },
+		    {
+	    		"required_prereqs": [],
+			"course_title": "EMA 3124 - Design and Selection of Materials",
+			"name": "EMA 3124",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-MSE",
+			"offered_with": [],
+			"children": [],
+			"description": "Relationship between processing, structure and properties of various engineering materials and their selection in engineering design."
+		    },
+		    {
+	    		"required_prereqs": [],
+			"course_title": "EMA 4102 - Thermodynamics and Kinetics of Materials",
+			"name": "EMA 4102",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-MSE",
+			"offered_with": [],
+			"children": [],
+			"description": "Application of first, second and third laws of thermodynamics to materials, phase diagrams, statistical thermodynamics, kinetic processes in materials, diffusion, nucleation and growth, and phase transformations."
+		    },		    
+		    {
+	    		"required_prereqs": [],
+			"course_title": "EMA 4223 - Fundamentals of Mechanical Behavior of Materials",
+			"name": "EMA 4223",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-MSE",
+			"offered_with": [],
+			"children": [],
+			"description": "Elementary treatment of elasticity, plasticity, viscoelasticity, creep, fracture, and fatigue."
+		    },
+		    {
+	    		"required_prereqs": [],
+			"course_title": "EMA 4413 - Fundamentals of Electronic Materials",
+			"name": "EMA 4413",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-MECH/AERO",
+			"offered_with": [],
+			"children": [],
+			"description": "Electronic processes in solids. Electrical, magnetic, and optical properties of solids. Electron energies in solids. Superconducting materials."
+		    },
+		    {
+	    		"required_prereqs": [],
+			"course_title": "EMA 4501C - Scanning Electron Microscopy",
+			"name": "EMA 4501C",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-MSE",
+			"offered_with": [],
+			"children": [],
+			"description": ""
+		    },
+		    {
+	    		"required_prereqs": [],
+			"course_title": "EMA 4503 - Materials Characterization Techniques",
+			"name": "EMA 4503",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-MSE",
+			"offered_with": [],
+			"children": [],
+			"description": "Theory and practice of commonly used techniques for characterization of crystal structure, microstructure and chemistry."
+		    },
+		    {
+	    		"required_prereqs": [],
+			"course_title": "EMA 4506 - Emerging Materials",
+			"name": "EMA 4506",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-MSE",
+			"offered_with": [],
+			"children": [],
+			"description": "Structure, properties and processing of modern emerging materials."
+		    }
+		],
 		"description": "Atomic structure, bonding, crystal structures, solidification, phase transformations, heat treatment, mechanical behavior, specific aerospace materials, materials design."
 	    },
 	    {
@@ -3877,7 +3987,230 @@
 		"professors": "",
 		"credit_type": "OPT-OPT",
 		"offered_with": [],
-		"children": [],
+		"children": [
+		    {
+	    		"required_prereqs": [],
+			"course_title": "OSE 3052L - Foundations of Photonics Laboratory",
+			"name": "OSE 3052L",
+			"credits": "(1)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "OPT-OPT",
+			"offered_with": [],
+			"children": [],
+			"description": "The laboratory experiments covering fundamental photonics principles related to light sources, dispersion of light, interference and diffraction of light, and other optical phenomena."
+		    },
+		    {
+	    		"required_prereqs": [],
+			"course_title": "OSE 3053 - Electromagnetic Waves for Photonics",
+			"name": "OSE 3053",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "OPT-OPT",
+			"offered_with": [],
+			"children": [],
+			"description": "Electromagnetic theory of light. Fresnel reflection and refraction. Polarization and crystal optics. Metallic and dielectric waveguides."
+		    },
+		    {
+	    		"required_prereqs": [],
+			"course_title": "OSE 4240 - Optics & Photonics Design",
+			"name": "OSE 4240",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "OPT-OPT",
+			"offered_with": [],
+			"children": [],
+			"description": "Analysis and design of optical and photonic systems. Assessment of image quality using optical design software. Simulation of integrated-optic systems using photonic design software."
+		    },
+		    {
+	    		"required_prereqs": [],
+			"course_title": "OSE 4410 - Optoelectronics",
+			"name": "OSE 4410",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "OPT-OPT",
+			"offered_with": [],
+			"children": [
+			    {
+	    			"required_prereqs": [],
+				"course_title": "OSE 4410L - Optoelectronics Laboratory",
+				"name": "OSE 4410L",
+				"credits": "(1)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "OPT-OPT",
+				"offered_with": [],
+				"children": [],
+				"description": "Experiments in the basics of semiconductor optoelectronic devices including photodiodes, light-emitting diodes, laser diodes, CCDs. Applications include solar cells, displays, photodetection, and optical communications."
+			    }
+			],
+			"description": "Introduction to the principles and design of semiconductor optoelectronic devices including photodiodes, solar cells, light-emitting diodes, laser diodes, and CCDs. Applications include photovoltaics, displays, imaging."
+		    },
+		    {
+	    		"required_prereqs": [],
+			"course_title": "OSE 4470 - Fiber-Optic Communications",
+			"name": "OSE 4470",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "OPT-OPT",
+			"offered_with": [],
+			"children": [
+			    {
+	    			"required_prereqs": [],
+				"course_title": "OSE 4470L - Fiber-Optic Communications Laboratory",
+				"name": "OSE 4470L",
+				"credits": "(1)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "OPT-OPT",
+				"offered_with": [],
+				"children": [],
+				"description": "Laboratory experiments covering the optical fiber as a communication channel, couplers, transmitters and receivers using optoelectronic devices, multiplexing, and overall systems performance."
+			    },
+			    {
+	    			"required_prereqs": [],
+				"course_title": "OSE 4951 - Senior Design I",
+				"name": "OSE 4951",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "OPT-OPT",
+				"offered_with": [],
+				"children": [
+				    {
+	    				"required_prereqs": [],
+					"course_title": "OSE 4952 - Senior Design II",
+					"name": "OSE 4952",
+					"credits": "(3)",
+					"choice_prereqs": [],
+					"professors": "",
+					"credit_type": "OPT-OPT",
+					"offered_with": [],
+					"children": [],
+					"description": "Execution of project developed in OSE 4951, including complete project design review, prototyping, construction, testing, cost, functionality, demonstration, presentation, and reporting. Emphasis on team effort."
+				    }
+				],
+				"description": "Development of the technical, communication, and team skills for successful design of optical and photonic systems. Preparation of project proposals for Senior Design II."
+			    }
+			],
+			"description": "Introduction to the principles and design of fiber-optic communication systems including the integrated-optic and optoelectronic devices used in transmitters and receivers."
+		    },
+		    {
+	    		"required_prereqs": [],
+			"course_title": "OSE 4520 - Laser Engineering",
+			"name": "OSE 4520",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "OPT-OPT",
+			"offered_with": [],
+			"children": [
+			    {
+	    			"required_prereqs": [],
+				"course_title": "OSE 4520L - Laser Engineering Laboratory",
+				"name": "OSE 4520L",
+				"credits": "(1)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "OPT-OPT",
+				"offered_with": [],
+				"children": [],
+				"description": "Experiments highlighting basic laser phenomena. Absorption, spontaneous and stimulated emission. Fluorescence. Optical amplifiers. Optical resonators. Lasers. Continuous wave and pulsed lasers. Nonlinear optical wave conversion."
+			    },
+			    {
+	    			"required_prereqs": [],
+				"course_title": "OSE 4951 - Senior Design I",
+				"name": "OSE 4951",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "OPT-OPT",
+				"offered_with": [],
+				"children": [
+				    {
+	    				"required_prereqs": [],
+					"course_title": "OSE 4952 - Senior Design II",
+					"name": "OSE 4952",
+					"credits": "(3)",
+					"choice_prereqs": [],
+					"professors": "",
+					"credit_type": "OPT-OPT",
+					"offered_with": [],
+					"children": [],
+					"description": "Execution of project developed in OSE 4951, including complete project design review, prototyping, construction, testing, cost, functionality, demonstration, presentation, and reporting. Emphasis on team effort."
+				    }
+				],
+				"description": "Development of the technical, communication, and team skills for successful design of optical and photonic systems. Preparation of project proposals for Senior Design II."
+			    }
+			],
+			"description": "The photon nature of light. Absorption and spontaneous and stimulated emission of light. Fluorescence. Optical amplifiers. Optical resonators. Lasers. Pulsed lasers. Nonlinear optical wave conversion."
+		    },
+		    {
+	    		"required_prereqs": [],
+			"course_title": "OSE 4720 - Visual Optics",
+			"name": "OSE 4720",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "OPT-OPT",
+			"offered_with": [],
+			"children": [],
+			"description": "Optics of the human eye and color vision. Optical and neural processing of spatial, temporal, and color information. Detection, discrimination, and recognition. Color science."
+		    },
+		    {
+	    		"required_prereqs": [],
+			"course_title": "OSE 4721 - Biophotonics",
+			"name": "OSE 4721",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "OPT-OPT",
+			"offered_with": [],
+			"children": [],
+			"description": "This course is an introduction to photobiology (interaction of light with biological matter), tissue optics, light-induced cellular processes, optical biosensors, and cellular and molecular imaging."
+		    },
+		    {
+	    		"required_prereqs": [],
+			"course_title": "OSE 4830 - Imaging and Display",
+			"name": "OSE 4830",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "OPT-OPT",
+			"offered_with": [],
+			"children": [
+			    {
+	    			"required_prereqs": [],
+				"course_title": "OSE 4830L - Imaging and Display Laboratory",
+				"name": "OSE 4830L",
+				"credits": "(1)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "OPT-OPT",
+				"offered_with": [],
+				"children": [],
+				"description": "Experiments introducing imaging systems. Image acquisition and analysis. Resolution and contrast. Fourier transform, filtering and diffraction. Interferometeric metrology. Spectroscopy and spectral imaging. Liquid crystal displays."
+			    }
+			],
+			"description": "Mathematical and physical models of two- and threedimensional imaging systems including gazing, scanning, interferometric, tomographic, and hyperspectral systems. Applications to remote sensing, biology, and medicine."
+		    },
+		    {
+	    		"required_prereqs": [],
+			"course_title": "OSE 4930 - Frontiers of Optics and Photonics",
+			"name": "OSE 4930",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "OPT-OPT",
+			"offered_with": [],
+			"children": [],
+			"description": "Introduction to recent advances in optics & photonics, to ethical issues, and to effective communication appropriate to the field of optics & photonics."
+		    }
+		],
 		"description": "Wave equations. Superposition of waves. Interference and diffraction. Coherence. LEDs and lasers. Detectors."
 	    },
 	    {
@@ -3913,7 +4246,255 @@
 		"professors": "",
 		"credit_type": "OPT-OPT",
 		"offered_with": [],
-		"children": [],
+		"children": [
+		    {
+	    		"required_prereqs": [],
+			"course_title": "OSE 3052 - Foundations of Photonics",
+			"name": "OSE 3052",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "OPT-OPT",
+			"offered_with": [],
+			"children": [
+			    {
+	    			"required_prereqs": [],
+				"course_title": "OSE 3052L - Foundations of Photonics Laboratory",
+				"name": "OSE 3052L",
+				"credits": "(1)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "OPT-OPT",
+				"offered_with": [],
+				"children": [],
+				"description": "The laboratory experiments covering fundamental photonics principles related to light sources, dispersion of light, interference and diffraction of light, and other optical phenomena."
+			    },
+			    {
+	    			"required_prereqs": [],
+				"course_title": "OSE 3053 - Electromagnetic Waves for Photonics",
+				"name": "OSE 3053",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "OPT-OPT",
+				"offered_with": [],
+				"children": [],
+				"description": "Electromagnetic theory of light. Fresnel reflection and refraction. Polarization and crystal optics. Metallic and dielectric waveguides."
+			    },
+			    {
+	    			"required_prereqs": [],
+				"course_title": "OSE 4240 - Optics & Photonics Design",
+				"name": "OSE 4240",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "OPT-OPT",
+				"offered_with": [],
+				"children": [],
+				"description": "Analysis and design of optical and photonic systems. Assessment of image quality using optical design software. Simulation of integrated-optic systems using photonic design software."
+			    },
+			    {
+	    			"required_prereqs": [],
+				"course_title": "OSE 4410 - Optoelectronics",
+				"name": "OSE 4410",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "OPT-OPT",
+				"offered_with": [],
+				"children": [
+				    {
+	    				"required_prereqs": [],
+					"course_title": "OSE 4410L - Optoelectronics Laboratory",
+					"name": "OSE 4410L",
+					"credits": "(1)",
+					"choice_prereqs": [],
+					"professors": "",
+					"credit_type": "OPT-OPT",
+					"offered_with": [],
+					"children": [],
+					"description": "Experiments in the basics of semiconductor optoelectronic devices including photodiodes, light-emitting diodes, laser diodes, CCDs. Applications include solar cells, displays, photodetection, and optical communications."
+				    }
+				],
+				"description": "Introduction to the principles and design of semiconductor optoelectronic devices including photodiodes, solar cells, light-emitting diodes, laser diodes, and CCDs. Applications include photovoltaics, displays, imaging."
+			    },
+			    {
+	    			"required_prereqs": [],
+				"course_title": "OSE 4470 - Fiber-Optic Communications",
+				"name": "OSE 4470",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "OPT-OPT",
+				"offered_with": [],
+				"children": [
+				    {
+	    				"required_prereqs": [],
+					"course_title": "OSE 4470L - Fiber-Optic Communications Laboratory",
+					"name": "OSE 4470L",
+					"credits": "(1)",
+					"choice_prereqs": [],
+					"professors": "",
+					"credit_type": "OPT-OPT",
+					"offered_with": [],
+					"children": [],
+					"description": "Laboratory experiments covering the optical fiber as a communication channel, couplers, transmitters and receivers using optoelectronic devices, multiplexing, and overall systems performance."
+				    },
+				    {
+	    				"required_prereqs": [],
+					"course_title": "OSE 4951 - Senior Design I",
+					"name": "OSE 4951",
+					"credits": "(3)",
+					"choice_prereqs": [],
+					"professors": "",
+					"credit_type": "OPT-OPT",
+					"offered_with": [],
+					"children": [
+					    {
+	    					"required_prereqs": [],
+						"course_title": "OSE 4952 - Senior Design II",
+						"name": "OSE 4952",
+						"credits": "(3)",
+						"choice_prereqs": [],
+						"professors": "",
+						"credit_type": "OPT-OPT",
+						"offered_with": [],
+						"children": [],
+						"description": "Execution of project developed in OSE 4951, including complete project design review, prototyping, construction, testing, cost, functionality, demonstration, presentation, and reporting. Emphasis on team effort."
+					    }
+					],
+					"description": "Development of the technical, communication, and team skills for successful design of optical and photonic systems. Preparation of project proposals for Senior Design II."
+				    }
+				],
+				"description": "Introduction to the principles and design of fiber-optic communication systems including the integrated-optic and optoelectronic devices used in transmitters and receivers."
+			    },
+			    {
+	    			"required_prereqs": [],
+				"course_title": "OSE 4520 - Laser Engineering",
+				"name": "OSE 4520",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "OPT-OPT",
+				"offered_with": [],
+				"children": [
+				    {
+	    				"required_prereqs": [],
+					"course_title": "OSE 4520L - Laser Engineering Laboratory",
+					"name": "OSE 4520L",
+					"credits": "(1)",
+					"choice_prereqs": [],
+					"professors": "",
+					"credit_type": "OPT-OPT",
+					"offered_with": [],
+					"children": [],
+					"description": "Experiments highlighting basic laser phenomena. Absorption, spontaneous and stimulated emission. Fluorescence. Optical amplifiers. Optical resonators. Lasers. Continuous wave and pulsed lasers. Nonlinear optical wave conversion."
+				    },
+				    {
+	    				"required_prereqs": [],
+					"course_title": "OSE 4951 - Senior Design I",
+					"name": "OSE 4951",
+					"credits": "(3)",
+					"choice_prereqs": [],
+					"professors": "",
+					"credit_type": "OPT-OPT",
+					"offered_with": [],
+					"children": [
+					    {
+	    					"required_prereqs": [],
+						"course_title": "OSE 4952 - Senior Design II",
+						"name": "OSE 4952",
+						"credits": "(3)",
+						"choice_prereqs": [],
+						"professors": "",
+						"credit_type": "OPT-OPT",
+						"offered_with": [],
+						"children": [],
+						"description": "Execution of project developed in OSE 4951, including complete project design review, prototyping, construction, testing, cost, functionality, demonstration, presentation, and reporting. Emphasis on team effort."
+					    }
+					],
+					"description": "Development of the technical, communication, and team skills for successful design of optical and photonic systems. Preparation of project proposals for Senior Design II."
+				    }
+				],
+				"description": "The photon nature of light. Absorption and spontaneous and stimulated emission of light. Fluorescence. Optical amplifiers. Optical resonators. Lasers. Pulsed lasers. Nonlinear optical wave conversion."
+			    },
+			    {
+	    			"required_prereqs": [],
+				"course_title": "OSE 4720 - Visual Optics",
+				"name": "OSE 4720",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "OPT-OPT",
+				"offered_with": [],
+				"children": [],
+				"description": "Optics of the human eye and color vision. Optical and neural processing of spatial, temporal, and color information. Detection, discrimination, and recognition. Color science."
+			    },
+			    {
+	    			"required_prereqs": [],
+				"course_title": "OSE 4721 - Biophotonics",
+				"name": "OSE 4721",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "OPT-OPT",
+				"offered_with": [],
+				"children": [],
+				"description": "This course is an introduction to photobiology (interaction of light with biological matter), tissue optics, light-induced cellular processes, optical biosensors, and cellular and molecular imaging."
+			    },
+			    {
+	    			"required_prereqs": [],
+				"course_title": "OSE 4830 - Imaging and Display",
+				"name": "OSE 4830",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "OPT-OPT",
+				"offered_with": [],
+				"children": [
+				    {
+	    				"required_prereqs": [],
+					"course_title": "OSE 4830L - Imaging and Display Laboratory",
+					"name": "OSE 4830L",
+					"credits": "(1)",
+					"choice_prereqs": [],
+					"professors": "",
+					"credit_type": "OPT-OPT",
+					"offered_with": [],
+					"children": [],
+					"description": "Experiments introducing imaging systems. Image acquisition and analysis. Resolution and contrast. Fourier transform, filtering and diffraction. Interferometeric metrology. Spectroscopy and spectral imaging. Liquid crystal displays."
+				    }
+				],
+				"description": "Mathematical and physical models of two- and threedimensional imaging systems including gazing, scanning, interferometric, tomographic, and hyperspectral systems. Applications to remote sensing, biology, and medicine."
+			    },
+			    {
+	    			"required_prereqs": [],
+				"course_title": "OSE 4930 - Frontiers of Optics and Photonics",
+				"name": "OSE 4930",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "OPT-OPT",
+				"offered_with": [],
+				"children": [],
+				"description": "Introduction to recent advances in optics & photonics, to ethical issues, and to effective communication appropriate to the field of optics & photonics."
+			    }
+			],
+			"description": "Wave equations. Superposition of waves. Interference and diffraction. Coherence. LEDs and lasers. Detectors."
+		    },
+		    {
+	    		"required_prereqs": [],
+			"course_title": "OSE 4240 - Optics & Photonics Design",
+			"name": "OSE 4240",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "OPT-OPT",
+			"offered_with": [],
+			"children": [],
+			"description": "Analysis and design of optical and photonic systems. Assessment of image quality using optical design software. Simulation of integrated-optic systems using photonic design software."
+		    }
+		],
 		"description": "Fundamentals of geometrical optics. Geometrical theory of image formation. Chromatic and monochromatic aberrations. Optical systems. "
 	    },
 	    {
@@ -3949,7 +4530,20 @@
 		"professors": "",
 		"credit_type": "OPT-OPT",
 		"offered_with": [],
-		"children": [],
+		"children": [
+		    {
+	    		"required_prereqs": [],
+			"course_title": "OSE 4410L - Optoelectronics Laboratory",
+			"name": "OSE 4410L",
+			"credits": "(1)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "OPT-OPT",
+			"offered_with": [],
+			"children": [],
+			"description": "Experiments in the basics of semiconductor optoelectronic devices including photodiodes, light-emitting diodes, laser diodes, CCDs. Applications include solar cells, displays, photodetection, and optical communications."
+		    }
+		],
 		"description": "Introduction to the principles and design of semiconductor optoelectronic devices including photodiodes, solar cells, light-emitting diodes, laser diodes, and CCDs. Applications include photovoltaics, displays, imaging."
 	    },
 	    {
@@ -3973,7 +4567,45 @@
 		"professors": "",
 		"credit_type": "OPT-OPT",
 		"offered_with": [],
-		"children": [],
+		"children": [
+		    {
+	    		"required_prereqs": [],
+			"course_title": "OSE 4470L - Fiber-Optic Communications Laboratory",
+			"name": "OSE 4470L",
+			"credits": "(1)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "OPT-OPT",
+			"offered_with": [],
+			"children": [],
+			"description": "Laboratory experiments covering the optical fiber as a communication channel, couplers, transmitters and receivers using optoelectronic devices, multiplexing, and overall systems performance."
+		    },
+		    {
+	    		"required_prereqs": [],
+			"course_title": "OSE 4951 - Senior Design I",
+			"name": "OSE 4951",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "OPT-OPT",
+			"offered_with": [],
+			"children": [
+			    {
+	    			"required_prereqs": [],
+				"course_title": "OSE 4952 - Senior Design II",
+				"name": "OSE 4952",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "OPT-OPT",
+				"offered_with": [],
+				"children": [],
+				"description": "Execution of project developed in OSE 4951, including complete project design review, prototyping, construction, testing, cost, functionality, demonstration, presentation, and reporting. Emphasis on team effort."
+			    }
+			],
+			"description": "Development of the technical, communication, and team skills for successful design of optical and photonic systems. Preparation of project proposals for Senior Design II."
+		    }
+		],
 		"description": "Introduction to the principles and design of fiber-optic communication systems including the integrated-optic and optoelectronic devices used in transmitters and receivers."
 	    },
 	    {
@@ -3997,7 +4629,45 @@
 		"professors": "",
 		"credit_type": "OPT-OPT",
 		"offered_with": [],
-		"children": [],
+		"children": [
+		    {
+	    		"required_prereqs": [],
+			"course_title": "OSE 4520L - Laser Engineering Laboratory",
+			"name": "OSE 4520L",
+			"credits": "(1)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "OPT-OPT",
+			"offered_with": [],
+			"children": [],
+			"description": "Experiments highlighting basic laser phenomena. Absorption, spontaneous and stimulated emission. Fluorescence. Optical amplifiers. Optical resonators. Lasers. Continuous wave and pulsed lasers. Nonlinear optical wave conversion."
+		    },
+		    {
+	    		"required_prereqs": [],
+			"course_title": "OSE 4951 - Senior Design I",
+			"name": "OSE 4951",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "OPT-OPT",
+			"offered_with": [],
+			"children": [
+			    {
+	    			"required_prereqs": [],
+				"course_title": "OSE 4952 - Senior Design II",
+				"name": "OSE 4952",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "OPT-OPT",
+				"offered_with": [],
+				"children": [],
+				"description": "Execution of project developed in OSE 4951, including complete project design review, prototyping, construction, testing, cost, functionality, demonstration, presentation, and reporting. Emphasis on team effort."
+			    }
+			],
+			"description": "Development of the technical, communication, and team skills for successful design of optical and photonic systems. Preparation of project proposals for Senior Design II."
+		    }
+		],
 		"description": "The photon nature of light. Absorption and spontaneous and stimulated emission of light. Fluorescence. Optical amplifiers. Optical resonators. Lasers. Pulsed lasers. Nonlinear optical wave conversion."
 	    },
 	    {
@@ -4045,7 +4715,20 @@
 		"professors": "",
 		"credit_type": "OPT-OPT",
 		"offered_with": [],
-		"children": [],
+		"children": [
+		    {
+	    		"required_prereqs": [],
+			"course_title": "OSE 4830L - Imaging and Display Laboratory",
+			"name": "OSE 4830L",
+			"credits": "(1)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "OPT-OPT",
+			"offered_with": [],
+			"children": [],
+			"description": "Experiments introducing imaging systems. Image acquisition and analysis. Resolution and contrast. Fourier transform, filtering and diffraction. Interferometeric metrology. Spectroscopy and spectral imaging. Liquid crystal displays."
+		    }
+		],
 		"description": "Mathematical and physical models of two- and threedimensional imaging systems including gazing, scanning, interferometric, tomographic, and hyperspectral systems. Applications to remote sensing, biology, and medicine."
 	    },
 	    {
@@ -4081,7 +4764,20 @@
 		"professors": "",
 		"credit_type": "OPT-OPT",
 		"offered_with": [],
-		"children": [],
+		"children": [
+		    {
+	    		"required_prereqs": [],
+			"course_title": "OSE 4952 - Senior Design II",
+			"name": "OSE 4952",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "OPT-OPT",
+			"offered_with": [],
+			"children": [],
+			"description": "Execution of project developed in OSE 4951, including complete project design review, prototyping, construction, testing, cost, functionality, demonstration, presentation, and reporting. Emphasis on team effort."
+		    }
+		],
 		"description": "Development of the technical, communication, and team skills for successful design of optical and photonic systems. Preparation of project proposals for Senior Design II."
 	    },
 	    {
@@ -4109,7 +4805,45 @@
 		"professors": "",
 		"credit_type": "ECS-CECS",
 		"offered_with": [],
-		"children": [],
+		"children": [
+		    {
+	    		"required_prereqs": [],
+			"course_title": "TTE 4300 - Transportation Analytics",
+			"name": "TTE 4300",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-CECS",
+			"offered_with": [],
+			"children": [],
+			"description": "Qualitative and quantitative approaches to contemporary transportation challenges, including economic theory, optimization algorithms, statistical methods, and sustainable transportation alternatives."
+		    },
+		    {
+	    		"required_prereqs": [],
+			"course_title": "TTE 4274 - Transportation Engineering Systems",
+			"name": "TTE 4274",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-CECS",
+			"offered_with": [],
+			"children": [
+			    {
+	    			"required_prereqs": [],
+				"course_title": "TTE 4601C - Urban Systems Design",
+				"name": "TTE 4601C",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "ECS-CECS",
+				"offered_with": [],
+				"children": [],
+				"description": "Project design course covering principles/techniques of planning, traffic analysis, and highway design. Including projecting traffic volumes, laying out alternative routes, designing of alignments/intersections."
+			    }
+			],
+			"description": "Topics such as safety, Intelligent Transportation Systems, and airport transportation will be covered."
+		    }
+		],
 		"description": "Three functional classifications are covered: planning, design and operation of transportation facilities. Emphasis is on the highway transportation mode."
 	    },
 	    {
@@ -4121,7 +4855,20 @@
 		"professors": "",
 		"credit_type": "ECS-CECS",
 		"offered_with": [],
-		"children": [],
+		"children": [
+		    {
+	    		"required_prereqs": [],
+			"course_title": "TTE 4601C - Urban Systems Design",
+			"name": "TTE 4601C",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-CECS",
+			"offered_with": [],
+			"children": [],
+			"description": "Project design course covering principles/techniques of planning, traffic analysis, and highway design. Including projecting traffic volumes, laying out alternative routes, designing of alignments/intersections."
+		    }
+		],
 		"description": "Topics such as safety, Intelligent Transportation Systems, and airport transportation will be covered."
 	    },
 	    {
