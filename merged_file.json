@@ -1817,7 +1817,84 @@
 		"professors": "",
 		"credit_type": "ECS-CECE",
 		"offered_with": [],
-		"children": [],
+		"children": [
+		    {
+	    		"required_prereqs": [],
+			"course_title": "CWR 4202C - Hydraulics",
+			"name": "CWR 4202C",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-CECE",
+			"offered_with": [],
+			"children": [
+			    {
+	    			"required_prereqs": [],
+				"course_title": "CWR 4124 - Hydrogeology",
+				"name": "CWR 4124",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "ECS-CECE",
+				"offered_with": [],
+				"children": [],
+				"description": "Fundamentals of subsurface flow and transport, role of groundwater in the hydrologic cycle, relation of groundwater flow to geologic structure, and management of contaminated groundwater."
+			    }
+			    {
+	    			"required_prereqs": [],
+				"course_title": "CWR 4120 - Hydrology",
+				"name": "CWR 4120",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "ECS-CECE",
+				"offered_with": [],
+				"children": [
+				    {
+	    				"required_prereqs": [],
+					"course_title": "CWR 4812C - Water Resources Design",
+					"name": "CWR 4812C",
+					"credits": "(3)",
+					"choice_prereqs": [],
+					"professors": "",
+					"credit_type": "ECS-CECE",
+					"offered_with": [],
+					"children": [],
+					"description": "Project course for the design of storm water, potable and sewer transmission systems using local and state regulations."
+				    }
+				],
+				"description": "Occurrence, distribution, and properties of fresh water on Earth and movement via physical processes. Application of hydrology, fluid mechanics, and computation to water resources."
+			    }
+			    
+			],
+			"description": "Application of basic principles of fluids at rest and in motion to analysis and design of hydraulic systems. Empirical relationships for practical engineering problems."
+		    },
+		    {
+	    		"required_prereqs": [],
+			"course_title": "CWR 4632C - Water Resources Engineering I",
+			"name": "CWR 4632C",
+			"credits": "(4)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-CECE",
+			"offered_with": [],
+			"children": [
+			    {
+	    			"required_prereqs": [],
+				"course_title": "CWR 4633C - Water Resources Engineering II",
+				"name": "CWR 4633C",
+				"credits": "(3)",
+				"choice_prereqs": [],
+				"professors": "",
+				"credit_type": "ECS-CECE",
+				"offered_with": [],
+				"children": [],
+				"description": "Provision of advanced understanding of hydrology, hydrologic river routing, open/closed channel, and groundwater hydraulic and some engineering applications of these concepts."
+			    }
+			],
+			"description": "Descriptive and quantitative aspect of water in the earth’s environment and its engineering implications, including analysis of surface water systems, design of hydraulic structures, and stormwater management."
+		    }
+		],
 		"description": "Fundamentals of fluid mechanics with hydraulic applications: fluid properties, hydrostatics, dimensional analysis, energy, momentum, continuity, and steady flow."
 	    },
 	    {
@@ -1829,7 +1906,21 @@
 		"professors": "",
 		"credit_type": "ECS-CECE",
 		"offered_with": [],
-		"children": [],
+		"children": [
+		    {
+	    		"required_prereqs": [],
+			"course_title": "CWR 4812C - Water Resources Design",
+			"name": "CWR 4812C",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-CECE",
+			"offered_with": [],
+			"children": [],
+			"description": "Project course for the design of storm water, potable and sewer transmission systems using local and state regulations."
+		    }
+
+		],
 		"description": "Occurrence, distribution, and properties of fresh water on Earth and movement via physical processes. Application of hydrology, fluid mechanics, and computation to water resources."
 	    },
 	    {
@@ -1853,7 +1944,32 @@
 		"professors": "",
 		"credit_type": "ECS-CECE",
 		"offered_with": [],
-		"children": [],
+		"children": [
+		    {
+	    		"required_prereqs": [],
+			"course_title": "CWR 4124 - Hydrogeology",
+			"name": "CWR 4124",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-CECE",
+			"offered_with": [],
+			"children": [],
+			"description": "Fundamentals of subsurface flow and transport, role of groundwater in the hydrologic cycle, relation of groundwater flow to geologic structure, and management of contaminated groundwater."
+		    },
+		    {
+	    		"required_prereqs": [],
+			"course_title": "CWR 4124 - Hydrogeology",
+			"name": "CWR 4124",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-CECE",
+			"offered_with": [],
+			"children": [],
+			"description": "Fundamentals of subsurface flow and transport, role of groundwater in the hydrologic cycle, relation of groundwater flow to geologic structure, and management of contaminated groundwater."
+		    }
+		],
 		"description": "Application of basic principles of fluids at rest and in motion to analysis and design of hydraulic systems. Empirical relationships for practical engineering problems."
 	    },
 	    {
@@ -1865,7 +1981,20 @@
 		"professors": "",
 		"credit_type": "ECS-CECE",
 		"offered_with": [],
-		"children": [],
+		"children": [
+		    {
+	    		"required_prereqs": [],
+			"course_title": "CWR 4633C - Water Resources Engineering II",
+			"name": "CWR 4633C",
+			"credits": "(3)",
+			"choice_prereqs": [],
+			"professors": "",
+			"credit_type": "ECS-CECE",
+			"offered_with": [],
+			"children": [],
+			"description": "Provision of advanced understanding of hydrology, hydrologic river routing, open/closed channel, and groundwater hydraulic and some engineering applications of these concepts."
+		    }
+		],
 		"description": "Descriptive and quantitative aspect of water in the earth’s environment and its engineering implications, including analysis of surface water systems, design of hydraulic structures, and stormwater management."
 	    },
 	    {
