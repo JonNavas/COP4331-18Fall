@@ -39,5 +39,8 @@ https://docs.google.com/spreadsheets/d/1bVjK9Yi4O1Sm_Mh1Etl_fZBBIz6xelayMxsPISWG
 ## Test Procedures
 https://docs.google.com/document/d/1HcfmPL0HKbkkkBPg8VbtUpC4GnOzr_xWE-zTMeBHXEs/edit?usp=sharing
 
+## Explanation of Tests
+https://docs.google.com/document/d/1_sb5sLsjfW_4QjQsVgIXi7ITP8iuxIa-8eUg8kC6nII/edit?usp=sharing
+
 ## Demonstration
 https://jordanstarkey95.github.io/COP4331-18Fall/live
