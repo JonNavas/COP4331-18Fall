@@ -44,3 +44,4 @@ https://docs.google.com/document/d/1_sb5sLsjfW_4QjQsVgIXi7ITP8iuxIa-8eUg8kC6nII/
 
 ## Demonstration
 https://jordanstarkey95.github.io/COP4331-18Fall/live
+![alt text](https://raw.githubusercontent.com/jordanstarkey95/COP4331-18Fall/master/IMG_4777.MOV) 
